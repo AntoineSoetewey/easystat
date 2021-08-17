@@ -2,18 +2,18 @@
 enable: true
 topTitle: Témoignages
 title: >
-  ## Ce que les gens disent de moi ?
+  ## Ce que les gens disent de moi
 
 testimonial:
-  - name: Ryan Cook
-    comment: Takimata sanctus est lorem ipsum dolor sit amet lorem ipsum dolor sit amet consetur sad ipscing elitr sed diam nonumy eirmod tempor invidunt labore dolore magna.
-    time: Jan 20, 2020
+  - name: Cloé
+    comment: Antoine est un excellent prof de stat, il explique les choses de manière claire et concise. Il a toujours un exemple concret sous la main, ce qui rend le cours passionnant. Il est très disponible, je le recommande vivement !
+    time: 6 janvier
     star: 5
-  - name: Justin Trudo
-    comment: Takimata sanctus est lorem ipsum dolor sit amet lorem ipsum dolor sit amet consetur sad ipscing elitr sed diam nonumy eirmod tempor invidunt labore dolore magna.
-    time: Jan 16, 2020
-    star: 4
-  - name: Franky Filth
-    comment: Takimata sanctus est lorem ipsum dolor sit amet lorem ipsum dolor sit amet consetur sad ipscing elitr sed diam nonumy eirmod tempor invidunt labore dolore magna.
-    time: Mar 08, 2020
-    star: 3
+  - name: Elisa
+    comment: J'avais besoin d'aide pour la réalisation des statistiques de mon mémoire. Antoine m'a offert une aide précieuse. Rapide, efficace et très pédagogue ! Merci
+    time: 20 mars
+    star: 5
+  - name: Alessandra
+    comment: Antoine est très rigoureux, dans le détail et maitrise parfaitement ses compétences tout en expliquant de manière assez simple. Je suis vraiment reconnaissante de son aide et de son soutien. N'hésitez pas à le contacter !
+    time: 27 octobre
+    star: 5

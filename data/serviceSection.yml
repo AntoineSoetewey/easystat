@@ -4,20 +4,29 @@ topTitle: Mes domaines d'expertise
 title: >
   ## En quoi puis-je vous aider ?
 
-  Donnant cours de statistiques dans plusieurs facultés et à des étudiants ayant des parcours différents, je m'adapte à vos besoins.
+  Donnant cours de statistiques dans plusieurs facultés et à des étudiants ayant des parcours différents, je m'adapte à vos besoins et votre niveau.
 service:
-  - content: >
-      #### Mémoire
-
-      De par mon expérience en tant qu'assistant à l'université, je suis mené à encadrer des mémorants. Je vous aide dans la réalisation des **analyses statistiques** de votre **mémoire**, en m'assurant la bonne compréhension et interprétation des tests statistiques appliqués.
-    image: images/service/web.svg
   - content: >
       #### Cours particuliers
 
       Quel que soit votre programme et année d'étude, je propose des **cours** particuliers en **statistiques**, **probabilités** et sur **RStudio**, en garantissant un accompagnement personnalisé et sur mesure à chaque étudiant.
+      
+      
+      Prix : 35€/heure
     image: images/service/ui-ux.svg
+  - content: >
+      #### Mémoire
+
+      De par mon expérience en tant qu'assistant à l'université, je suis mené à encadrer des mémorants. Je vous aide dans la réalisation des **analyses statistiques** de votre **mémoire**, en m'assurant la bonne compréhension et interprétation des tests statistiques appliqués.
+      
+      
+      Prix : sur demande
+    image: images/service/web.svg
   - content: >
       #### Consultance
 
       Si vous êtes un **professionnel**, je vous aide dans l'analyse de vos données et dans la prise de décision éclairée en apportant une dimension statistique à vos projets, quel que soit le secteur d'activité.
+      
+      
+      Prix : sur demande
     image: images/service/branding.svg
