@@ -1,5 +1,5 @@
 baseURL: "https://easystat.be"
-languageCode: en-us
+languageCode: fr-be
 paginate: 6
 theme: portio-hugo
 title: Portio

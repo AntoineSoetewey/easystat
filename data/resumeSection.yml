@@ -1,39 +1,34 @@
 ---
 enable: true
-topTitle: My Resume
+topTitle: Mon CV
 title: >
-  ## My Expertises
+  ## Mon parcours
 
-  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore  
+  Après 2 masters et un passage dans le secteur privé, je fais actuellement un doctorat en statistiques.
 
 
-  Magna aliquyam erat, sed diam voluptua. At vero eos accusam justo.
+  En parallèle de ma thèse, je suis assistant pour plusieurs cours de statistiques et probabilités pour des étudiants en bachelier et master, et je dispense des formations en statistiques et programmation R.
 tab1Name: Education
-tab2Name: Experiences
+tab2Name: Expériences
 tab1Target: education
 tab2Target: experience
 
 education:
   - content: >
-      #### Master in Arts
+      #### Doctorat en statistiques
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      *UCLouvain*
+    time: 2017 - Présent
   - content: >
-      #### Master in Arts
+      #### Master en économétrie
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      *Maastricht University*
+    time: 2015 - 2016
   - content: >
-      #### Master in Arts
+      #### Master en économie
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
-  - content: >
-      #### Master in Arts
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      *KULeuven*
+    time: 2013 - 2015
 
 experience:
   - content: >
