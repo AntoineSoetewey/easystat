@@ -20,7 +20,7 @@ menu:
       weight: 4
   sitemap:
     - name: A propos
-      url: about
+      url: '#about'
       weight: 1
     - name: Frequently Ask Question
       url: '#'
