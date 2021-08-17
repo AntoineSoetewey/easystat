@@ -1,4 +1,4 @@
-baseURL: "https://easystat.netlify.app"
+baseURL: "https://easystat.be"
 languageCode: en-us
 paginate: 6
 theme: portio-hugo
