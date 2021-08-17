@@ -1,0 +1,43 @@
+---
+enable: true
+topTitle: Mes domaines d'expertise
+title: >
+  ## En quoi puis-je vous aider ?
+
+  Donnant cours de statistiques dans plusieurs facultés et à des étudiants ayant des parcours différents, je m'adapte à vos besoins.
+service:
+  - content: >
+      #### Cours particuliers
+
+      Que ce soit pour un cours de stat en psycho, en kiné, en économie, ou encore en vétérinaire, nos pourrons vous donner cours dans cette matière tant redoutée.
+    image: images/service/ui-ux.svg
+  - content: >
+      #### Web Development 
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna aliquyam erat.
+    image: images/service/web.svg
+  - content: >
+      #### Creative Design 
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna aliquyam erat.
+    image: images/service/creative.svg
+  - content: >
+      #### Branding
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna aliquyam erat.
+    image: images/service/branding.svg
+  - content: >
+      #### UI/UX Design
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna aliquyam erat.
+    image: images/service/ui-ux.svg
+  - content: >
+      #### Web Development
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna aliquyam erat.
+    image: images/service/web.svg
