@@ -7,7 +7,7 @@ title: >
   Après 2 masters et un passage dans le secteur privé, je fais actuellement un doctorat en statistiques.
 
 
-  En parallèle de ma thèse, je suis assistant pour plusieurs cours de statistiques et probabilités pour des étudiants en bachelier et master, et je dispense des formations en statistiques et programmation R.
+  En parallèle de ma thèse, je suis assistant pour plusieurs cours de statistiques et probabilités pour des étudiants en bachelier et master, et je dispense des formations en statistiques et programmation R (RStudio).
 tab1Name: Education
 tab2Name: Expériences
 tab1Target: education
@@ -17,37 +17,32 @@ education:
   - content: >
       #### Doctorat en statistiques
 
-      *UCLouvain*
+      *UCLouvain, Belgique*
     time: 2017 - Présent
   - content: >
       #### Master en économétrie
 
-      *Maastricht University*
+      *Université de Maastricht, Pays-Bas*
     time: 2015 - 2016
   - content: >
       #### Master en économie
 
-      *KULeuven*
+      *KULeuven, Belgique*
     time: 2013 - 2015
 
 experience:
   - content: >
-      #### Umbrella co. 
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2016-Present
+      #### UCLouvain
+      
+      Assistant en statistiques et probabilités pour étudiants en bachelier et master. Voir mes [cours](https://www.antoinesoetewey.com/teaching/).
+    time: 2017 - Présent
   - content: >
-      #### Aperture Science 
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2010-2016
+      #### Support en Méthodologie et Calcul Statistique (SMCS)
+      
+      Consultant et formateur en statistiques & programmation R.
+    time: 2017 - Présent
   - content: >
-      #### ACME Inc. 
+      #### Business & Decision
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2005-2010
-  - content: >
-      #### LexCorp 
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2001-2005
+      Consultant pour plusieurs projets axés sur la science des données et la visualisation des données.
+    time: 2016 - 2017
