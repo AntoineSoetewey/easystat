@@ -11,7 +11,7 @@ content: >
   
   Que vous soyez étudiant en bachelier ou master, et peu importe le programme d'étude, je me ferai un plaisir de répondre à votre demande.
 button1Name: Contactez-moi
-button2Name: Mon CV
+# button2Name: Mon CV
 button1Target: contact
-button2Target: https://www.antoinesoetewey.com/cv.pdf
+# button2Target: https://www.antoinesoetewey.com/cv.pdf
 image: images/about/about-img.jpg

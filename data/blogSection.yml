@@ -1,9 +1,9 @@
 ---
-enable: false
+enable: true
 topTitle: Blog
 title: >
-  ## Recent Article
+  ## Stats and R
 
-  Enjoy team diversity and increase their networks among others people in various fields by provided.
+  Voir mon blog [Stats and R](https://statsandr.com/), qui traite de statistiques et du programme R.
 
-buttonTarget: blog
+buttonTarget: https://statsandr.com/

@@ -6,29 +6,20 @@ title: Portio
 ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 menu:
   main:
-    - name: Home
-      url: '#home'
-      weight: 1
-    - name: About
+    - name: A propos
       url: '#about'
-      weight: 2
-    - name: Service
+      weight: 1
+    - name: Services
       url: '#service'
-      weight: 3
-    - name: Work
-      url: '#portfolio'
-      weight: 4
-    - name: Resume
+      weight: 2
+    - name: CV
       url: '#resume'
-      weight: 5
+      weight: 3
     - name: Blog
       url: '#blog'
-      weight: 6
-    - name: Contact
-      url: '#contact'
-      weight: 7
+      weight: 4
   sitemap:
-    - name: About me
+    - name: A propos
       url: about
       weight: 1
     - name: Frequently Ask Question
@@ -48,7 +39,7 @@ params:
     phone: +(448) 833 5272 332
   blogPageURL: blog
   contactLink: contact
-  copyright: All right reserved copyright © Portio 2020
+  copyright: Antoine Soetewey
   footerLogo: images/contact/widget-logo.png
   formspreeURL: YOUR FORMSPREE URL
   googleAnalytics: YOUR GOOGLE ANALYTICS CODE
@@ -59,18 +50,15 @@ params:
     longitude: '90.3746808'
     pinImage: images/pin.png
   social:
-    - icon: fa-facebook-official
-      url: https://www.facebook.com/
+    - icon: fa-linkedin
+      url: https://www.linkedin.com/in/antoinesoetewey/
       weight: 1
-    - icon: fa-linkedin-square
-      url: https://www.linkedin.com/
+    - icon: fab fa-github
+      url: https://github.com/AntoineSoetewey
       weight: 2
-    - icon: fa-pinterest-square
-      url: https://www.pinterest.com/
+    - icon: fa-twitter
+      url: https://twitter.com/statsandr
       weight: 3
-    - icon: fa-twitter-square
-      url: https://twitter.com/
-      weight: 4
 
 markup:
   goldmark:
