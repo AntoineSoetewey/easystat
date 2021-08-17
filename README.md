@@ -1,2 +1,6 @@
-# easystat
-Contactez-moi si vous êtes à la recherche d'un prof de stat pour vos cours ou mémoires, ou si vous cherchez de l'aide en stat pour 
+# easy**stat**
+
+Contactez-moi si vous êtes :
+
+- un étudiant à la recherche d'un prof de stat pour votre cours ou votre mémoire
+- une entreprise qui a besoin d'apporter une dimension statistique à un projet
