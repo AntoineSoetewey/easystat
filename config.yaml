@@ -15,9 +15,6 @@ menu:
     - name: CV
       url: '#resume'
       weight: 3
-    - name: Blog
-      url: '#blog'
-      weight: 4
   sitemap:
     - name: A propos
       url: '#about'
