@@ -20,14 +20,8 @@ params:
   blogPageURL: blog
   contactLink: contact
   copyright: Antoine Soetewey
-  footerLogo: images/contact/widget-logo.png
   googleAnalytics: G-ECWD38ZTYX
   logo: images/site-navigation/logo.png
-  map:
-    APIkey: YOUR GOOGLE MAP API
-    latitude: '23.7783741'
-    longitude: '90.3746808'
-    pinImage: images/pin.png
   social:
     - icon: fa-linkedin
       url: https://www.linkedin.com/in/antoinesoetewey/
