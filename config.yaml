@@ -2,7 +2,7 @@ baseURL: "https://easystat.be/"
 languageCode: fr-be
 paginate: 6
 theme: portio-hugo
-title: easystat | prof stat
+title: easystat - prof stat
 ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 menu:
   main:
