@@ -1,13 +1,15 @@
 ---
-title: Mes méthodes
+title: Ma méthode d'enseignement
 author: Antoine Soetewey
 date: '2021-08-18'
-slug: méthodes
+slug: méthode-enseignement
 categories: []
 tags: []
 featureImage: blog/méthodes/images/easystat-professeur-statistique.jpeg
 postImage: blog/méthodes/images/easystat-professeur-statistique.jpeg
 ---
+
+Ma méthode d'enseigement est différente en fonction que vous ayez besoin de cours particuliers en statistiques ou bien d'une aide à la réalisation des statistiques de votre mémoire.
 
 # Cours particuliers
 
