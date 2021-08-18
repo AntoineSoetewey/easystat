@@ -13,5 +13,5 @@ content: >
 button1Name: Contactez-moi
 button2Name: Ma méthode
 button1Target: contact
-button2Target: blog/méthode-enseignement/
+button2Target: blog/methode-enseignement
 image: images/about/easystat-antoine-soetewey.jpeg
