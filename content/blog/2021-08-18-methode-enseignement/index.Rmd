@@ -9,11 +9,11 @@ featureImage: images/blog/easystat-professeur-statistique.jpeg
 postImage: images/blog/easystat-professeur-statistique.jpeg
 ---
 
-Ma méthode d'enseigement est différente en fonction que vous ayez besoin de cours particuliers en statistiques ou bien d'une aide à la réalisation des statistiques de votre mémoire.
+Ma méthode d'enseigement est différente en fonction que vous ayez besoin de cours particuliers en statistique ou bien d'une aide à la réalisation des statistiques de votre mémoire.
 
 # Cours particuliers
 
-Ma méthode d'enseignement est basée sur celle utilisée en travaux pratiques dans les universités, c'est-à-dire l'application de la théorie vue par le professeur en cours magistraux via des exercices et la compréhension de la matière (pourquoi ? comment ? à quoi ça sert ? l'interprétation, etc.), ce qui permettra à l'étudiant de mieux comprendre et donc mieux retenir. Je base mes cours sur la matière du professeur en y ajoutant mon expérience en tant qu'assistant en statistiques et mon expertise quand c'est nécessaire.
+Ma méthode d'enseignement est basée sur celle utilisée en travaux pratiques dans les universités, c'est-à-dire l'application de la théorie vue par le professeur en cours magistraux via des exercices et la compréhension de la matière (pourquoi ? comment ? à quoi ça sert ? l'interprétation, etc.), ce qui permettra à l'étudiant de mieux comprendre et donc mieux retenir. Je base mes cours sur la matière du professeur en y ajoutant mon expérience en tant qu'assistant en statistique et mon expertise quand c'est nécessaire.
 
 De plus, je prends en compte les questions et interrogations de l'étudiant pour adapter le cours aux problèmes rencontrés. Cette méthode d'enseignement est donc particulièrement utile aux universitaires.
 

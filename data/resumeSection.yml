@@ -4,10 +4,10 @@ topTitle: Mon CV
 title: >
   ## Mon parcours
 
-  Après 2 masters et un passage dans le secteur privé, je fais actuellement un doctorat en statistiques.
+  Après 2 masters et un passage dans le secteur privé, je fais actuellement un doctorat en statistique.
 
 
-  En parallèle de ma thèse, je suis assistant pour plusieurs cours de statistiques et probabilités pour des étudiants en bachelier et master, et je dispense des formations en statistiques et programmation R (RStudio).
+  En parallèle de ma thèse, je suis assistant pour plusieurs cours de statistique et probabilité pour des étudiants en bachelier et master, et je dispense des formations en statistique et programmation R (RStudio).
   
   
   Voir mon [CV](https://www.antoinesoetewey.com/cv.pdf).
@@ -18,7 +18,7 @@ tab2Target: experience
 
 education:
   - content: >
-      #### Doctorat en statistiques
+      #### Doctorat en statistique
 
       *UCLouvain, Belgique*
     time: 2017 - Présent
@@ -37,12 +37,12 @@ experience:
   - content: >
       #### UCLouvain
       
-      Assistant en statistiques et probabilités pour étudiants en bachelier et master. Voir mes [cours](https://www.antoinesoetewey.com/teaching/).
+      Assistant en statistique et probabilité pour étudiants en bachelier et master. Voir mes [cours](https://www.antoinesoetewey.com/teaching/).
     time: 2017 - Présent
   - content: >
       #### Support en Méthodologie et Calcul Statistique (SMCS)
       
-      Consultant et formateur en statistiques & programmation R.
+      Consultant et formateur en statistique & programmation R.
     time: 2017 - Présent
   - content: >
       #### Business & Decision
