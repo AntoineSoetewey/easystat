@@ -4,12 +4,24 @@ topTitle: Mes domaines d'expertise
 title: >
   ## En quoi puis-je vous aider ?
 
-  Mes compétences incluent les statistiques descriptives, les statistiques inférentielles (test d'hypothèse et intervalle de confiance), la modélisation (régression linéaire et logistique) et l'analyse de survie. 
+  Mes compétences incluent :
+  
+  - les statistiques descriptives,
+  
+  - les statistiques inférentielles (test d'hypothèse et intervalle de confiance),
+  
+  - la modélisation (régression linéaire et logistique),
+  
+  - l'analyse de survie,
+  
+  - la visualisation (dashboards), et
+  
+  - le reporting (production automatisée de rapports d'analyse)
 service:
   - content: >
       #### Cours particuliers
 
-      Quel que soit votre programme et année d'étude, je propose des **cours** particuliers en **statistique**, **probabilité** et sur **RStudio**, en garantissant un accompagnement personnalisé et sur mesure à chaque étudiant.
+      Quel que soit votre programme et année d'étude, je propose des **cours** particuliers en **statistique**, **probabilité** et sur **RStudio** (script et R Markdown), en garantissant un accompagnement personnalisé et sur mesure à chaque étudiant.
       
       
       Prix : 35€/heure
