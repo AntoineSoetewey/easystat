@@ -19,6 +19,7 @@ Apprenez-en plus sur moi au travers de cette interview :
 1. Vous pouvez maintenant nous rassurer et nous avouer que vous aussi, vous avez déjà connu des difficultés à l'école...
 1. Aidez-nous à vous connaître un peu mieux en évoquant vos passions.
 1. Qu'est-ce qui fait de vous un bon prof ?
+1. Quelle est votre méthode d'enseignement?
 
 # 1. Depuis quand développez-vous un intérêt pour votre discipline et pour les cours particuliers ?
 
@@ -70,6 +71,10 @@ Ce qui fait de moi un bon prof (du moins je l'espère) est le fait que j'aime ap
 
 De plus, j'aime partager mes connaissances et faire en sorte que les étudiants comprennent ce qu'ils font pour ensuite pouvoir apprendre par eux-mêmes et continuer de progresser.
 
+# 9. Quelle est votre méthode d'enseignement?
+
+Difficile d'expliquer cela en quelques lignes. Vous trouverez toutes les informations concernant ma méthode d'enseignement au travers de cet [article](/blog/methode-enseignement/).
+
 # En savoir plus
 
-Apprenez-en plus sur ma méthode d'enseignement au travers de cet [article](/blog/methode-enseignement/), ou sur moi via mon [site personnel](https://www.antoinesoetewey.com/).
+Vous trouverez plus toutes les informations me concernant sur mon [site personnel](https://www.antoinesoetewey.com/).
