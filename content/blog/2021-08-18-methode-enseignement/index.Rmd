@@ -32,3 +32,7 @@ Ayant l’habitude de donner des formations et de faire des projets et mémoires
 # Contact
 
 Que ça soit pour une demande de cours ou une demande d’aide pour la partie stat de votre mémoire ou TFE, vous pouvez [me contacter](/contact/) en donnant le maximum d’informations (l’intitulé et le code du cours, le contenu, votre programme et année d’étude, sur quoi porte votre mémoire, quelles analyses ou tests vous auriez besoin, etc.) afin que je puisse répondre à votre demande le plus rapidement et le plus efficacement possible. Merci d’avance !
+
+# En savoir plus
+
+Apprenez-en plus sur moi et ma façon de travailler au travers de cette [interview](/blog/a-propos/).
