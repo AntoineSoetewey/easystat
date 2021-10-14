@@ -21,25 +21,25 @@ Apprenez-en plus sur moi au travers de cette interview :
 1. Qu'est-ce qui fait de vous un bon prof ?
 1. Quelle est votre méthode d'enseignement?
 
-# 1. Depuis quand développez-vous un intérêt pour votre discipline et pour les cours particuliers ?
+## 1. Depuis quand développez-vous un intérêt pour votre discipline et pour les cours particuliers ?
 
 Les statistiques ont commencé à m'intéresser en 3ème BAC lorsqu'un de mes professeurs d'économie à l'université nous a conseillé un livre. Je l'ai lu et depuis ce moment-là je suis passionné par les statistiques et tout ce qui en découle. J'ai ensuite choisi mon Master avec une orientation plus statistique, pour ensuite faire un 2ème Master en économétrie (qui est en quelques mots l'utilisation de méthodes statistiques appliquées à des problèmes économiques) pour enfin faire un doctorat en statistiques. Depuis tout ce temps, je suis passionné par ce que je fais et j'apprends encore tous les jours car, contrairement à ce que l'on pense, les statistiques sont partout et peuvent être très chouettes et intéressantes.
 
 J'ai développé un intérêt pour les cours particuliers depuis le début de mon doctorat. En effet, en parallèle de ma thèse, j'ai la chance d'être [assistant en statistiques](https://www.antoinesoetewey.com/teaching/). Le fait de donner entre 5 et 6 cours de statistiques par année académique à des groupes entre 15 et 50 étudiants universitaires m'a permis de me rendre compte que j'aimais transmettre mes connaissances et surtout faire en sorte que des personnes qui sont souvent réticentes par rapport à cette matière comprennent. Voir des étudiants qui sortent de mon cours en ayant compris et qui se disent que finalement les stats peuvent être chouettes et compréhensibles avec un peu de pratique est pour moi un objectif de tous les jours.
 
-# 2. Dites nous-en davantage sur la matière enseignée, sur les thèmes que vous appréciez aborder avec les élèves (et éventuellement ceux qui vous plaisent un peu moins) !
+## 2. Dites nous-en davantage sur la matière enseignée, sur les thèmes que vous appréciez aborder avec les élèves (et éventuellement ceux qui vous plaisent un peu moins) !
 
 Tous les thèmes en statistiques sont intéressants et aucun ne me déplait. Cependant, il est vrai que j'aime particulièrement donner des cours de stats portant sur les [stats descriptives](https://statsandr.com/blog/descriptive-statistics-in-r/), [probabilités](https://statsandr.com/blog/the-9-concepts-and-formulas-in-probability-that-every-data-scientist-should-know/), variables aléatoires et distributions, intervalles de confiance, [tests d'hypothèses](https://statsandr.com/blog/hypothesis-test-by-hand/) et [régressions linéaires](https://statsandr.com/blog/multiple-linear-regression-made-simple/).
 
 Étant donné que j'utilise le programme statistique R pour mes recherches dans le cadre de ma thèse, j'aime aussi particulièrement enseigner des cours pratiques sur ce programme.
 
-# 3. Parlez-nous de vos modèles, que ce soit un professeur qui vous a marqué ou encore une oeuvre qui vous a inspiré !
+## 3. Parlez-nous de vos modèles, que ce soit un professeur qui vous a marqué ou encore une oeuvre qui vous a inspiré !
 
 Le professeur qui m'a le plus marqué est celui qui nous a conseillé le livre "Freakonomics" de Steven D. Levitt et Stephen J. Dubner. Je le remercie encore aujourd'hui car c'est en partie grâce à ce livre et donc à lui que je suis là où je suis aujourd'hui.
 
 En tant que statisticien, une oeuvre qui mérite d'être mentionnée est selon moi sans aucun doute le théorème central limite ; point de départ incontournable pour beaucoup d'analyses statistiques en particulier en termes d'inférence statistique.
 
-# 4. Quelles sont, selon vous, les qualités requises pour être un bon expert dans votre domaine ?
+## 4. Quelles sont, selon vous, les qualités requises pour être un bon expert dans votre domaine ?
 
 Selon moi, il faut tout d'abord avoir une maitrise du sujet que l'on enseigne pour pouvoir jongler avec tous les concepts. Je me dis toujours que si je ne sais pas bien expliquer un concept statistique à quelqu'un, c'est que je ne le comprends pas assez bien. Cela permet aussi de pouvoir donner des exemples concrets, ce qui est toujours fort apprécié chez les étudiants pour une bonne compréhension de la matière.
 
@@ -47,17 +47,17 @@ Cependant la connaissance ne fait pas tout. Pour être un bon expert en stats il
 
 C'est aussi ce que je m'éfforce de faire lorsque j'écrit sur mon blog [Stats and R](https://statsandr.com/)---communiquer des concepts statistiques de manière claire, concise et aussi précise que possible.
 
-# 5. Une anecdote en rapport avec votre métier ou votre scolarité à nous raconter ?
+## 5. Une anecdote en rapport avec votre métier ou votre scolarité à nous raconter ?
 
 Lorsque je me suis présenté brièvement au premier cours d'un des cours pour lequel je suis assistant, une étudiante a rétorqué devant tout le monde "un doctorat en stats ?! Mais vous êtes fou !", et que finalement cette étudiante a obtenu la meilleure note de la classe à la fin du quadrimestre car elle a compris ce qu'elle faisait lorsqu'elle faisait des stats.
 
-# 6. Vous pouvez maintenant nous rassurer et nous avouer que vous aussi, vous avez déjà connu des difficultés à l'école...
+## 6. Vous pouvez maintenant nous rassurer et nous avouer que vous aussi, vous avez déjà connu des difficultés à l'école...
 
 En effet, j'ai eu quelques difficultés pour les matières comme la biologie car je n'ai jamais aimé étudier par coeur des choses sans pouvoir les comprendre. C'est d'ailleurs pourquoi j'aime les stats car c'est selon moi une matière pour laquelle si on comprend, on ne doit pas étudier par coeur, les concepts et procédés découlent naturellement.
 
 Une chose intéressante est que mon doctorat est en biostatistique (qui est en quelques mots des méthodes statistiques appliquées au monde médical et/ou biologique, voir plus au travers de mes [recherches](https://www.antoinesoetewey.com/research/) si cela vous intéresse). Heureusement, ces difficultés en bio sont loin derrière moi maintenant.
 
-# 7. Aidez-nous à vous connaître un peu mieux en évoquant vos passions.
+## 7. Aidez-nous à vous connaître un peu mieux en évoquant vos passions.
 
 J'aime le sport en général, mais surtout le tennis, le padel, la course à pied, le vélo et plus récemment le wakeboard. Cependant, il existe des biens meilleurs profs que moi pour tous ces sports !
 
@@ -65,16 +65,16 @@ Pendant mon temps libre, j'adore également [lire](https://www.antoinesoetewey.c
 
 Comme beaucoup de personnes, j'aime aussi [voyager](https://www.antoinesoetewey.com/files/visited-places.html) et découvrir de nouvelles cultures et de nouveaux horizons.
 
-# 8. Qu'est-ce qui fait de vous un bon prof ?
+## 8. Qu'est-ce qui fait de vous un bon prof ?
 
 Ce qui fait de moi un bon prof (du moins je l'espère) est le fait que j'aime apprendre. Je continue donc de me former tous les jours pour pouvoir offrir aux étudiants les meilleurs cours, les meilleurs conseils, etc. en fonction de leur niveau et de leur besoin.
 
 De plus, j'aime partager mes connaissances et faire en sorte que les étudiants comprennent ce qu'ils font pour ensuite pouvoir apprendre par eux-mêmes et continuer de progresser.
 
-# 9. Quelle est votre méthode d'enseignement?
+## 9. Quelle est votre méthode d'enseignement?
 
 Difficile d'expliquer cela en quelques lignes. Vous trouverez toutes les informations concernant ma méthode d'enseignement au travers de cet [article](/blog/methode-enseignement/).
 
-# En savoir plus
+## En savoir plus
 
 Vous trouverez plus toutes les informations me concernant sur mon [site personnel](https://www.antoinesoetewey.com/).
