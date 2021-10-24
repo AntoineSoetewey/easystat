@@ -16,9 +16,11 @@ title: >
   
   - l'analyse de survie,
   
-  - la visualisation (dashboards), et
+  - la visualisation (dashboards),
   
-  - le reporting (production automatisée de rapports d'analyse)
+  - le reporting (production automatisée de rapports d'analyse),
+
+  - la programmation en R
 service:
   - content: >
       #### Cours particuliers
