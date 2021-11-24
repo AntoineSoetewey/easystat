@@ -13,7 +13,7 @@ postImage: images/blog/Antoine-Soetewey-easystat-prof-stat.png
 
 Les statistiques ont commencé à m'intéresser en 3ème BAC lorsqu'un de mes professeurs d'économie à l'université nous a conseillé un livre. Je l'ai lu et depuis ce moment-là je suis passionné par les statistiques et tout ce qui en découle. J'ai ensuite choisi mon Master avec une orientation plus statistique, pour ensuite faire un 2ème Master en économétrie (qui est en quelques mots l'utilisation de méthodes statistiques appliquées à des problèmes économiques) pour enfin faire un doctorat en statistiques. Depuis tout ce temps, je suis passionné par ce que je fais et j'apprends encore tous les jours car, contrairement à ce que l'on pense, les statistiques sont partout et peuvent être très chouettes et intéressantes.
 
-J'ai développé un intérêt pour les cours particuliers depuis le début de mon doctorat. En effet, en parallèle de ma thèse, j'ai la chance d'être [assistant en statistiques](https://www.antoinesoetewey.com/teaching/). Le fait de donner entre 5 et 6 cours de statistiques par année académique à des groupes entre 15 et 50 étudiants universitaires m'a permis de me rendre compte que j'aimais transmettre mes connaissances et surtout faire en sorte que des personnes qui sont souvent réticentes par rapport à cette matière comprennent. Voir des étudiants qui sortent de mon cours en ayant compris et qui se disent que finalement les stats peuvent être chouettes et compréhensibles avec un peu de pratique est pour moi un objectif de tous les jours.
+J'ai développé un intérêt pour les cours particuliers depuis le début de mon doctorat. En effet, en parallèle de ma thèse, j'ai la chance d'être [assistant en statistiques](https://antoinesoetewey.com/teaching/). Le fait de donner entre 5 et 6 cours de statistiques par année académique à des groupes entre 15 et 50 étudiants universitaires m'a permis de me rendre compte que j'aimais transmettre mes connaissances et surtout faire en sorte que des personnes qui sont souvent réticentes par rapport à cette matière comprennent. Voir des étudiants qui sortent de mon cours en ayant compris et qui se disent que finalement les stats peuvent être chouettes et compréhensibles avec un peu de pratique est pour moi un objectif de tous les jours.
 
 **2. Dites nous-en davantage sur la matière enseignée, sur les thèmes que vous appréciez aborder avec les élèves (et éventuellement ceux qui vous plaisent un peu moins) !**
 
@@ -43,15 +43,15 @@ Lorsque je me suis présenté brièvement au premier cours d'un des cours pour l
 
 En effet, j'ai eu quelques difficultés pour les matières comme la biologie car je n'ai jamais aimé étudier par coeur des choses sans pouvoir les comprendre. C'est d'ailleurs pourquoi j'aime les stats car c'est selon moi une matière pour laquelle si on comprend, on ne doit pas étudier par coeur, les concepts et procédés découlent naturellement.
 
-Une chose intéressante est que mon doctorat est en biostatistique (qui est en quelques mots des méthodes statistiques appliquées au monde médical et/ou biologique, voir plus au travers de mes [recherches](https://www.antoinesoetewey.com/research/) si cela vous intéresse). Heureusement, ces difficultés en bio sont loin derrière moi maintenant.
+Une chose intéressante est que mon doctorat est en biostatistique (qui est en quelques mots des méthodes statistiques appliquées au monde médical et/ou biologique, voir plus au travers de mes [recherches](https://antoinesoetewey.com/research/) si cela vous intéresse). Heureusement, ces difficultés en bio sont loin derrière moi maintenant.
 
 **7. Aidez-nous à vous connaître un peu mieux en évoquant vos passions.**
 
 J'aime le sport en général, mais surtout le tennis, le padel, la course à pied, le vélo et plus récemment le wakeboard. Cependant, il existe des biens meilleurs profs que moi pour tous ces sports !
 
-Pendant mon temps libre, j'adore également [lire](https://www.antoinesoetewey.com/files/booklist.html) des livres de non-fiction en statistiques, économie (comportementale entre autres), investissement/finances personnelles ou en psychologie et apprendre à coder au travers de mon [blog](https://statsandr.com/).
+Pendant mon temps libre, j'adore également [lire](https://antoinesoetewey.com/files/booklist.html) des livres de non-fiction en statistiques, économie (comportementale entre autres), investissement/finances personnelles ou en psychologie et apprendre à coder au travers de mon [blog](https://statsandr.com/).
 
-Comme beaucoup de personnes, j'aime aussi [voyager](https://www.antoinesoetewey.com/files/visited-places.html) et découvrir de nouvelles cultures et de nouveaux horizons.
+Comme beaucoup de personnes, j'aime aussi [voyager](https://antoinesoetewey.com/files/visited-places.html) et découvrir de nouvelles cultures et de nouveaux horizons.
 
 **8. Qu'est-ce qui fait de vous un bon prof ?**
 
@@ -65,4 +65,4 @@ Difficile d'expliquer cela en quelques lignes. Vous trouverez toutes les informa
 
 **En savoir plus**
 
-Vous trouverez plus toutes les informations me concernant sur mon [site personnel](https://www.antoinesoetewey.com/).
+Vous trouverez plus toutes les informations me concernant sur mon [site personnel](https://antoinesoetewey.com/).

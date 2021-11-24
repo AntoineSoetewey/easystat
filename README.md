@@ -2,8 +2,8 @@
 
 [Contactez-moi](https://easystat.be/contact/) si vous êtes :
 
-- un étudiant à la recherche d'un prof de stat pour votre cours ou votre mémoire
-- une entreprise qui a besoin d'apporter une dimension statistique à un projet
+- un **étudiant** à la recherche d'un **prof de stat** pour votre cours ou votre mémoire
+- une **entreprise** qui a besoin d'apporter une dimension **statistique** à un projet ou qui est à la recherche d'un formateur pour de la programmation statistique sur R
 
 Plus d'information sur [easystat.be](https://easystat.be/)
 
