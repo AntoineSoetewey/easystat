@@ -29,6 +29,8 @@ Cela passe très souvent par un premier rendez-vous pour en discuter plus en dé
 
 Ayant l’habitude de donner des formations et de faire des projets et mémoires sur R, il m’est aussi possible de dispenser des cours  ou formations sur RStudio, que ça soit à des étudiants ou des travailleurs qui ont besoin d’approfondir (ou de découvrir) ce programme statistique.
 
+Pour les travailleurs ou sociétés, vous trouverez plus d'informations via [datanalyze.be](https://datanalyze.be/).
+
 ## Contact
 
 Que ça soit pour une demande de cours ou une demande d’aide pour la partie stat de votre mémoire ou TFE, vous pouvez [me contacter](/contact/) en donnant le maximum d’informations (l’intitulé et le code du cours, le contenu, votre programme et année d’étude, sur quoi porte votre mémoire, quelles analyses ou tests vous auriez besoin, etc.) afin que je puisse répondre à votre demande le plus rapidement et le plus efficacement possible. Merci d’avance !
