@@ -25,7 +25,7 @@ service:
   - content: >
       #### Cours particuliers
 
-      Quel que soit votre programme et année d'étude, je propose des **cours** particuliers en **statistique**, **probabilité** et sur **RStudio** (script et R Markdown), en garantissant un accompagnement personnalisé et sur mesure à chaque étudiant.
+      Quel que soit votre programme, votre année d'étude ou votre niveau actuel, je propose des **cours** particuliers en **statistique**, **probabilité** et sur **RStudio** (script et R Markdown), en garantissant un accompagnement personnalisé et sur mesure à chaque étudiant.
       
       
       Prix : 35€/heure
@@ -33,7 +33,7 @@ service:
   - content: >
       #### Mémoire
 
-      De par mon expérience en tant qu'assistant à l'université, j'accompagne des mémorants. Je vous aide dans la réalisation des **analyses statistiques** de votre **mémoire**, en m'assurant la bonne compréhension et interprétation des tests statistiques appliqués.
+      De par mon expérience en tant qu'assistant au niveau universitaire, j'accompagne souvent des mémorants. Je peux donc vous aider dans la réalisation des **analyses statistiques** de votre **mémoire**, en m'assurant la bonne compréhension et interprétation des tests statistiques appliqués.
       
       
       Prix : 30€/heure
@@ -41,8 +41,8 @@ service:
   - content: >
       #### Consultance
 
-      Si vous êtes un **professionnel** ou une société, je vous aide dans l'**analyse de vos données** et dans la prise de décision éclairée en apportant une dimension statistique à vos projets, quel que soit le secteur d'activité. Je propose également des **formations sur RStudio** aux employés désirant se former au programme.
+      Si vous êtes un **professionnel**, je vous aide dans l'**analyse de données** et dans la prise de décision en apportant une dimension statistique à vos projets, quel que soit le secteur d'activité. Je propose également des **formations sur RStudio** aux employés désirant se former au programme.
       
       
-      Plus d'informations via [datanalyze.be](https://datanalyze.be/)
+      Plus d'[informations](https://datanalyze.be/)
     image: images/service/branding.svg
