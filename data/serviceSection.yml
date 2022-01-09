@@ -41,8 +41,8 @@ service:
   - content: >
       #### Consultance
 
-      Si vous êtes un **professionnel**, je vous aide dans l'**analyse de vos données** et dans la prise de décision éclairée en apportant une dimension statistique à vos projets, quel que soit le secteur d'activité. Je propose également des **formations sur RStudio** aux employés désirant se former au programme.
+      Si vous êtes un **professionnel** ou une société, je vous aide dans l'**analyse de vos données** et dans la prise de décision éclairée en apportant une dimension statistique à vos projets, quel que soit le secteur d'activité. Je propose également des **formations sur RStudio** aux employés désirant se former au programme.
       
       
-      Prix : sur demande
+      Plus d'informations via [datanalyze.be](https://datanalyze.be/)
     image: images/service/branding.svg
