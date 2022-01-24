@@ -1,0 +1,43 @@
+{{ with .Site.Data.portfolioSection }}
+{{ if .enable }}
+<section class="section portfolio" id="portfolio">
+  <div class="container">
+    <div class="row text-center">
+      <div class="col-lg-6 offset-lg-3">
+        <div class="portfolio__header mb-5">
+          <span class="top-title">{{ .topTitle }}</span>
+          {{ .title | markdownify }}
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-4">
+        <p><b>Statistiques</b></p>
+        <ul>
+          <li>Statistiques descriptives</li>
+          <li>Test d'hypothèse & intervalle de confiance</li>
+          <li>Modélisation & régression</li>
+          <li>Analyse de survie</li>
+        </ul>
+      </div>
+      <div class="col-4">
+        <p><b>Probabilités</b></p>
+        <ul>
+          <li>Probabilités (calcul, loi & dénombrement)</li>
+          <li>Variables aléatoires (discrètes & continues)</li>
+          <li>Distributions multivariées</li>
+        </ul>
+      </div>
+      <div class="col-4">
+        <p><b>R</b></p>
+        <ul>
+          <li>Visualisation & dashboards</li>
+          <li>Reporting (production automatisée de rapports d'analyse)</li>
+          <li>Programmation en R</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}

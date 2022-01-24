@@ -12,9 +12,12 @@ menu:
     - name: Services
       url: '#service'
       weight: 2
+    - name: Compétences
+      url: '#portfolio'
+      weight: 3
     - name: CV
       url: '#resume'
-      weight: 3
+      weight: 4
       
 params:
   blogPageURL: blog

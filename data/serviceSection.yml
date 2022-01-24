@@ -1,26 +1,8 @@
 ---
 enable: true
-topTitle: Mes domaines d'expertise
+topTitle: Services
 title: >
   ## En quoi puis-je vous aider ?
-
-  Mes compétences incluent :
-  
-  - statistiques descriptives,
-  
-  - probabilités et variables aléatoires,
-  
-  - statistiques inférentielles (test d'hypothèse et intervalle de confiance),
-  
-  - modélisation (régression linéaire et logistique),
-  
-  - analyse de survie,
-  
-  - visualisation & dashboards,
-  
-  - reporting (production automatisée de rapports d'analyse),
-
-  - programmation en R
 service:
   - content: >
       #### Cours particuliers
