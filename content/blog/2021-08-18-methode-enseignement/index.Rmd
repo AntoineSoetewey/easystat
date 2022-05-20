@@ -31,11 +31,11 @@ Pour les chercheurs et doctorants, je peux également aider à la partie statist
 
 Que ce soit pour les étudiants ou les chercheurs, je peux vous accompagner du début à la fin (la collecte des données, sélectionner les tests et analyses appropriées, les réaliser à l'aide d'un programme statistique, interpréter les résultats, relire et corriger vos interprétations), ou bien pour une partie seulement.
 
-De plus, notez que je ne travaille qu'avec les programmes statistiques R (RStudio), SPSS et JMP (avec une préférence pour R car c'est mon outil de travail au quotidien). Il est donc inutile de me contacter si vous avez besoin d'aide pour des manipulations sur SAS ou autres (c'est néanmoins possible si vous avez besoin d'aide pour interpréter les résultats et sorties de ces programmes, et pas besoin d'aide pour faire les manipulations).
+De plus, notez que je ne travaille qu'avec le programme statistique R (RStudio & R Markdown). Il est donc inutile de me contacter si vous avez besoin d'aide pour des manipulations sur SPSS, SAS, JMP, MATLAB ou autres (c'est néanmoins possible si vous avez besoin d'aide pour interpréter les résultats et sorties de ces programmes, et pas besoin d'aide pour faire les manipulations).
 
 ## Formations
 
-Ayant l’habitude de donner des formations et de faire des projets et mémoires sur R, il m’est aussi possible de dispenser des cours ou formations sur RStudio, que ça soit à des étudiants ou des travailleurs qui ont besoin d’approfondir (ou de découvrir) ce programme statistique.
+Ayant l’habitude de donner des formations et de faire des travaux, projets et mémoires sur R, il m’est aussi possible de dispenser des cours ou formations sur RStudio, R Markdown et R Shiny, que ça soit à des étudiants ou des travailleurs qui ont besoin d’approfondir (ou de découvrir) ce programme statistique.
 
 Pour les travailleurs ou sociétés, vous trouverez plus d'informations via [datanalyze.be](https://datanalyze.be/).
 
