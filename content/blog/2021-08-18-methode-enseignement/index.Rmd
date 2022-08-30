@@ -41,7 +41,18 @@ Pour les travailleurs ou sociétés, vous trouverez plus d'informations via [dat
 
 ## Contact
 
-Que ça soit pour une demande de cours ou une demande d’aide pour la partie stat de votre mémoire, TFE ou thèse, vous pouvez [me contacter](/contact/) en donnant le maximum d’informations (l’intitulé et le code du cours, le contenu, votre programme et année d’étude, sur quoi porte votre mémoire/TFE/thèse, quelles analyses ou tests vous auriez besoin, etc.) afin que je puisse répondre à votre demande le plus rapidement et le plus efficacement possible. Merci d’avance !
+Que ça soit pour une demande de cours ou une demande d’aide pour la partie stat de votre mémoire, TFE ou thèse, vous pouvez [me contacter](/contact/) en donnant le maximum d’informations :
+
+- l’intitulé et le code du cours,
+- le contenu,
+- votre programme et année d’étude,
+- sur quoi porte votre mémoire/TFE/thèse,
+- quelles analyses ou tests vous auriez besoin,
+- etc.
+
+afin que je puisse répondre à votre demande le plus rapidement et le plus efficacement possible. Merci d’avance !
+
+Si je me rends compte que je ne suis pas en mesure de vous aider, je n'hésiterai pas à vous transmettre les coordonnées de contact d'autres professeurs particuliers en statistiques.
 
 ## En savoir plus
 
