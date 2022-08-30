@@ -31,7 +31,7 @@ Pour les chercheurs et doctorants, je peux également aider à la partie statist
 
 Que ce soit pour les étudiants ou les chercheurs, je peux vous accompagner du début à la fin (la collecte des données, sélectionner les tests et analyses appropriées, les réaliser à l'aide d'un programme statistique, interpréter les résultats, relire et corriger vos interprétations), ou bien pour une partie seulement.
 
-De plus, notez que je ne travaille qu'avec le programme statistique R (RStudio & R Markdown). Il est donc inutile de me contacter si vous avez besoin d'aide pour des manipulations sur SPSS, SAS, JMP, MATLAB ou autres (c'est néanmoins possible si vous avez besoin d'aide pour interpréter les résultats et sorties de ces programmes, et pas besoin d'aide pour faire les manipulations).
+De plus, notez que je ne travaille qu'avec les programmes statistiques R (RStudio & R Markdown) et Jamovi. Il est donc inutile de me contacter si vous avez besoin d'aide pour des manipulations sur SPSS, SAS, JMP, MATLAB ou autres (c'est néanmoins possible si vous avez besoin d'aide pour interpréter les résultats et sorties de ces programmes, et pas besoin d'aide pour faire les manipulations).
 
 ## Formations
 
