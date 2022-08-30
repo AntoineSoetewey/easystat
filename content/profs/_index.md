@@ -1,4 +1,4 @@
 ---
 breadcrumb: Profs
-title: Profs
+title: Professeurs
 ---
