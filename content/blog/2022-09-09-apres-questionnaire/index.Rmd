@@ -5,11 +5,11 @@ date: '2022-09-09'
 slug: apres-questionnaire
 categories: []
 tags: []
-featureImage: images/questionnaire-easystat.jpeg
-postImage: images/questionnaire-easystat.jpeg
+featureImage: images/blog/questionnaire-easystat.jpeg
+postImage: images/blog/questionnaire-easystat.jpeg
 ---
 
-Que se passe t-il une fois que vous avez rempli le [questionnaire de contact](/contact/) ?
+Que se passe-t-il une fois que vous avez rempli le [questionnaire de contact](/contact/) ?
 
 Avant toute chose, que ce soit pour une demande de cours particuliers ou une demande d'aide pour des analyses statistiques, le fait de **remplir le questionnaire est gratuit et sans engagement.**
 
