@@ -1,8 +1,8 @@
 ---
 enable: true
-topTitle: Blog
+# topTitle: Blog
 title: >
-  ## Stats and R
+  ## Blog
 
   Voir mon blog [Stats and R](https://statsandr.com/), qui traite de concepts statistiques et de certaines de ses applications en R.
 
