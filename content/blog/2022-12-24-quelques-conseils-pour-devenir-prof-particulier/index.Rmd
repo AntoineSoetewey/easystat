@@ -60,13 +60,13 @@ Pour l'avoir expérimenté, je vous conseille vivement de proposer un premier co
 
 Le deuxième critère concerne les avis laissés par les étudiants qui ont fait appel à vous dans le passé. Vous l'aurez deviné, au plus vous avez d'avis positifs, au plus votre annonce apparaitra en haut de page. Il est donc primordial de s'assurer que les étudiants soient satisfaits de vos prestations.
 
-Suite à cela, une remarque revient souvent : "Je n'ai pas d'avis, donc je ne reçoit pas de demandes d'étudiants. Je n'ai pas de demandes d'étudiants, donc je ne reçois pas d'avis.". Pour palier à cela, je vous conseille de demander à quelques-uns de vos proches de vous laisser une recommandation (un avis est fait par un ancien étudiant, une recommandation peut être faite par n'importe qui). Vous aurez alors une note globale positive, ce qui donnera confiance aux étudiants et les incitera à vous choisir.
+Suite à cela, une remarque revient souvent : "Je n'ai pas d'avis, donc je ne reçois pas de demandes d'étudiants. Je n'ai pas de demandes d'étudiants, donc je ne reçois pas d'avis.". Pour pallier à cela, je vous conseille de demander à quelques-uns de vos proches de vous laisser une recommandation (un avis est fait par un ancien étudiant, une recommandation peut être faite par n'importe qui). Vous aurez alors une note globale positive, ce qui donnera confiance aux étudiants et les incitera à vous choisir.
 
 Ensuite, il vous reste à proposer des cours de qualité à vos premiers étudiants pour qu'ils vous laissent de bonnes évaluations.
 
 Le troisième critère concerne votre tarif horaire. Là aussi vous l'aurez deviné, plus votre prix horaire est élevé, au moins vous serez placé en haut de page.
 
-Ce critère du tarif horaire m'amène à mon deuxième conseil: Adapter son prix en fonction de son expérience.
+Ce critère du tarif horaire m'amène à mon deuxième conseil : Adapter son prix en fonction de son expérience.
 
 ### 2. Adapter son prix en fonction de son expérience
 
@@ -78,7 +78,7 @@ Pour cette raison, je trouve qu'il est normal de proposer un tarif plus bas lors
 
 Pour faire un lien avec le conseil précédent, il sera d'autant plus facile de récolter des avis positifs de la part de vos étudiants si votre tarif horaire est adapté à votre expérience.
 
-Je conseille d'éviter de vouloir gagner plus, trop rapidement. En effet, les étudiants qui paient un prix élevé ont également tendance à avoir des exigences plus élevées et s'attendent à des cours de meilleurs qualité. Si votre prestation n'est pas à la hauteur de leurs espérances, ils auront moins tendances à vous donner une bonne évaluation.
+Je conseille d'éviter de vouloir gagner plus, trop rapidement. En effet, les étudiants qui paient un prix élevé ont également tendance à avoir des exigences plus élevées et s'attendent à des cours de meilleure qualité. Si votre prestation n'est pas à la hauteur de leurs espérances, ils auront moins tendances à vous donner une bonne évaluation.
 
 Si vous donnez des cours sur un horizon à long terme, vous aurez bien le temps d'augmenter vos prix quand vous aurez acquis plus d'expérience, récolté plus de bonnes évaluations et construit une certaine réputation auprès des étudiants.
 
@@ -95,7 +95,7 @@ Pour ces raisons, je ne donne que des cours liés aux statistiques, probabilité
 
 Lorsque je refuse une demande de cours parce que cela sort de mon domaine d'expertise, je suis transparent avec l'étudiant et je lui donne très souvent les e-mails de mes collègues statisticiens pour qu'ils puissent les contacter, s'ils le désirent (voir [ma liste](/profs/) en guise d'exemple).
 
-Dès lors, je vous invite à vous entourer de personnes qui sont expertes dans les domaines liés aux votres et qui sont disponibles pour donner cours.
+Dès lors, je vous invite à vous entourer de personnes qui sont expertes dans les domaines liés aux vôtres et qui sont disponibles pour donner cours.
 
 Notez que cela ne veut pas dire qu'il faut tout refuser sur le principe qu'une partie de la matière n'est pas maitrisée. Il m'arrive souvent de proposer à l'étudiant de l'aider pour certains chapitres et de l'inviter à contacter mes collègues pour les autres chapitres.
 
@@ -109,11 +109,11 @@ Le Covid-19 a obligé tous les profs à s'adapter et à apprendre à donner cour
 
 Les cours en distanciel ont changé ma façon de travailler car il arrive souvent qu'on ne voit pas la tête de l'étudiant. Dans ce cas-là, on ne sait pas facilement juger s'il suit ou s'il a décroché.
 
-Il a donc fallu que je m'adapte et trouve  d'autres moyens de m'assurer que l'étudiant comprenne bien.
+Il a donc fallu que je m'adapte et trouve d'autres moyens de m'assurer que l'étudiant comprenne bien.
 
 A l'heure d'aujourd'hui, les étudiants apprécient le fait qu'ils peuvent choisir entre le distanciel et le présentiel. Certains ne veulent plus jamais avoir un cours en distanciel, d'autres ne veulent que des cours en distanciel. D'autres alternent entre cours en face-à-face et cours en distanciel en fonction de leur emploi du temps.
 
-Il est donc, d'après moi, indispensable de proposer les deux méthodes si vous désirer atteindre un maximum d'étudiants. Evidemment, si vous vous sentez plus à l'aise avec les cours en face-à-face qu'avec les cours en distanciel et que votre but est de donner cours à un nombre limité d'étudiants, ce conseil sera moins utile pour vous.
+Il est donc, d'après moi, indispensable de proposer les deux méthodes si vous désirer atteindre un maximum d'étudiants. Évidemment, si vous vous sentez plus à l'aise avec les cours en face-à-face qu'avec les cours en distanciel et que votre but est de donner cours à un nombre limité d'étudiants, ce conseil sera moins utile pour vous.
 
 Pour les cours en distanciel, Teams ou Zoom feront parfaitement l'affaire.
 
@@ -121,7 +121,7 @@ Pour les cours en distanciel, Teams ou Zoom feront parfaitement l'affaire.
 
 Pour donner cours dans les meilleures conditions possibles, il est important de se créer un environnement de travail dans lequel vous et vos étudiants se sentent à l'aise, et dans lequel vous avez tout le matériel nécessaire.
 
-Cela va de soit, vous aurez besoin au minimum d'une table, des chaises et de quoi écrire. En plus de cela, je conseille :
+Cela va de soi, vous aurez besoin au minimum d'une table, des chaises et de quoi écrire. En plus de cela, je conseille :
 
 - un ordinateur,
 - une pièce fermée dans laquelle vous ne serez pas dérangé, et
@@ -129,7 +129,7 @@ Cela va de soit, vous aurez besoin au minimum d'une table, des chaises et de quo
 
 Pour les cours en distanciel, je conseille également :
 
-- une bonne connection internet (il n'y a rien de plus dérangeant qu'une conversation qui est sans cesse coupée), et
+- une bonne connexion internet (il n'y a rien de plus dérangeant qu'une conversation qui est sans cesse coupée), et
 - une tablette et un stylet.
 
 Je conseille une tablette pour que vous puissiez écrire à la main et partager votre écran à l'étudiant (essayez de résoudre un exercice de statistique avec juste un ordinateur...).
@@ -142,7 +142,7 @@ Pour chaque étudiant et chaque cours, un temps non négligeable est consacré �
 
 En ce qui me concerne, voici un aperçu des tâches logistiques que je dois faire pour quasiment chaque cours :
 
-1. Demander à l'étudiant de m'envoyer la matière qu'il désire revoir avec moi s'il ne le fait pas de lui même (et d'expérience, peu le font)
+1. Demander à l'étudiant de m'envoyer la matière qu'il désire revoir avec moi s'il ne le fait pas de lui-même (et d'expérience, peu le font)
 1. Parcourir la matière pour vérifier que c'est bien dans mes cordes
 1. Le recontacter pour lui confirmer que je peux l'aider ou lui recommander des collègues si ce n'est pas dans mes cordes
 1. Si j'accepte de lui donner cours, trouver une date et heure qui nous convienne tous les deux
@@ -150,16 +150,16 @@ En ce qui me concerne, voici un aperçu des tâches logistiques que je dois fair
 1. Une fois le cours fini, récolter le paiement ou envoyer mon numéro de compte (et dans ce cas-là, vérifier quelques jours plus tard que le paiement a bien été fait, si pas relancer l'étudiant)
 1. Mettre à jour mon fichier qui reprend les coordonnées de tous mes étudiants, leur nombre d'heures de cours, etc. (pas obligatoire, mais très utile pour garder une trace et avoir une vue globale)
 
-Comme vous pouvez le voir, à partir d'un certain nombre d'étudiants, ces étapes peuvent vite vous faire perdre beaucoup de temps. Je conseille donc d'automatiser au maxmimum tout ce qui est possible.
+Comme vous pouvez le voir, à partir d'un certain nombre d'étudiants, ces étapes peuvent vite vous faire perdre beaucoup de temps. Je conseille donc d'automatiser au maximum tout ce qui est possible.
 
 Il est clair que certaines étapes sont incompressibles et ne peuvent pas être automatisées. Par exemple, je devrai toujours parcourir moi-même la matière pour décider si j'accepte de donner cours ou non.
 
-Par contre, avec le temps j'ai appris que certaines étapes peuvent être vraiment facilitées grâce à quelques outils ou procédés. Voici ceux que j'utilise le plus souvent, et qui me font gagner le plus de temps :
+En revanche, avec le temps j'ai appris que certaines étapes peuvent être vraiment facilitées grâce à quelques outils ou procédés. Voici ceux que j'utilise le plus souvent, et qui me font gagner le plus de temps :
 
 - Dès qu'un étudiant me contacte, je le renvoie vers ce [questionnaire de prise de contact](/contact/) qui me permet de récolter toutes les informations nécessaires en une seule fois. Sur ce questionnaire, je rappelle également à l'étudiant de m'envoyer la matière, sans quoi je ne sais pas vérifier si la matière est dans mes cordes ou non. Pour ce questionnaire, j'utilise [Airtable](https://airtable.com/invite/r/T00stCNz), mais il peut tout à fait être créé sur Google Forms par exemple.^[J'utilise Airtable plutôt que Google parce qu'Airtable est plus complet; il permet notamment de lier des questionnaires avec des tables hautement personnalisables et les intégrer avec d'autres plateformes, etc. De plus, ils proposent une application mobile intuitive et un plan gratuit qui est largement suffisant pour débuter.]
 - Si je peux aider l'étudiant, au lieu de faire des va-et-vient par e-mail pour trouver un créneau qui nous convienne à tous les deux, j'utilise Calendly; un outil de prise de rendez-vous en ligne (voir [ma page Calendly](https://calendly.com/antoinesoetewey) en guise d'exemple). En plus de permettre à n'importe qui de prendre rendez-vous quand cela lui arrange le mieux, cet outil peut aussi :
-  + Etre synchronisé avec votre agenda : donc si vous créer un événement autre qu'un cours, cette plage horaire ne sera plus disponible pour vos étudiants.
-  + Etre synchronisé avec votre compte Teams : lorsqu'un étudiant réserve une plage horaire, une réunion Teams est créée et un lien vers la réunion est envoyée par email (tout ceci automatiquement, sans aucune action de ma part).
+  + Être synchronisé avec votre agenda : donc si vous créer un événement autre qu'un cours, cette plage horaire ne sera plus disponible pour vos étudiants.
+  + Être synchronisé avec votre compte Teams : lorsqu'un étudiant réserve une plage horaire, une réunion Teams est créée et un lien vers la réunion est envoyée par e-mail (tout ceci automatiquement, sans aucune action de ma part).
 - Pour éviter de répondre plusieurs fois aux mêmes questions, j'ai créé et mis en ligne un site web ([www.easystat.be](/)) qui reprend la plupart des informations utiles : dès que je peux, je réfère l'étudiant vers la page du site web concernée.
 - Certains des e-mails ou messages que j'envoie aux étudiants se répètent. Pour gagner du temps, j'ai créé une note sur mon ordinateur qui reprend tous les messages et réponses types. Dès que possible, je fais un copier-coller plutôt que de l'écrire entièrement (ceci évite aussi des erreurs de frappe ou d'oublier une partie des informations).
 
@@ -174,16 +174,10 @@ Ayant un travail à temps plein, j'ai dû poser mes limites à plusieurs reprise
 
 Avec l'expérience, j'ai remarqué que limiter la fréquence et le nombre de cours donnés n'est pas nécessairement négatif même pour un prof qui voudrait en faire son activité principale.
 
-En effet, restreindre le nombre de cours permet de ne séléctionner que ceux dont on maitrise le mieux le sujet. Ceci augmente fortement la qualité des cours, et à la suite de cela vos étudiants vont d'autant plus vous recommander.
+En effet, restreindre le nombre de cours permet de ne sélectionner que ceux dont on maitrise le mieux le sujet. Ceci augmente fortement la qualité des cours, et à la suite de cela vos étudiants vont d'autant plus vous recommander.
   
 ### Devenir prof ?
 
 Recevant un plus grand nombre de demandes de cours que ce que je peux me permettre d'accepter, il m'arrive souvent d'en refuser et de rediriger les étudiants vers d'autres profs particuliers en statistiques.
 
 Par conséquent, si vous avez l'habitude de donner des cours dans les matières liées aux statistiques et que vous êtes ouvert à recevoir d'autres demandes d'étudiants, n'hésitez pas à me [contacter](mailto:ant.soetewey@gmail.com).
-
-
-
-
-
-
