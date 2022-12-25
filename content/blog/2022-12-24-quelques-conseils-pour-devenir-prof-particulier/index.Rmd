@@ -9,6 +9,8 @@ featureImage: images/blog/conseils-pour-devenir-prof-particulier.jpeg
 postImage: images/blog/conseils-pour-devenir-prof-particulier.jpeg
 ---
 
+Ci-dessous quelques conseils pour devenir professeur particulier ou déveloper son activité. Si vous avez l'habitude de donner des cours dans les matières liées aux statistiques et que vous êtes ouvert à recevoir d'autres demandes d'étudiants, n'hésitez pas à me [contacter](mailto:ant.soetewey@gmail.com).
+
 ### Introduction
 
 J'ai commencé à donner cours particulier en janvier 2019.
