@@ -15,16 +15,16 @@ J'ai commencé à donner cours particulier en janvier 2019.
 
 A ce moment-là, j'étais [assistant](https://antoinesoetewey.com/teaching/) en statistique à l'UCLouvain depuis un an et demi. Cela faisait plusieurs mois que j'aidais des connaissances et des étudiants que j'avais eu en tant qu'assistant.
 
-Je me suis vite rendu compte que beaucoup d'étudiants avaient pas mal de difficultés pour leurs cours de statistique ou la partie statistique de leur mémoire. L'idée de donner des cours particuliers est venue du fait que j'avais de plus en plus souvent des demandes pour de l'aide ou des conseils sur cette matière (qui est plus souvent redoutée qu'appréciée par les étudiants).
+Je me suis vite rendu compte que beaucoup d'étudiants avaient des difficultés pour leurs cours de statistique ou la partie statistique de leur mémoire. L'idée de donner des cours particuliers est venue du fait que j'avais de plus en plus souvent des demandes pour de l'aide ou des conseils sur cette matière (qui est plus souvent redoutée qu'appréciée par les étudiants).
 
 En janvier 2019, j'ai officiellement commencé à donner des cours particuliers à côté de ma thèse et de mes tâches d'assistanat.
 
-Au travers de cet article, je donne 7 conseils :
+Au travers de cet article, je partage 7 conseils pour :
 
-- à toutes les personnes qui voudraient commencer à donner des cours particuliers, ou
+- toutes les personnes qui voudraient commencer à donner des cours particuliers, ou
 - les personnes qui le font déjà mais qui voudraient y consacrer plus de temps et se professionnaliser.
 
-Chaque prof est différent et aborde la matière différement, et ce même différement en fonction de chaque étudiant et de ses besoins. Je ne vais donc évidemment pas donner des conseils sur comment donner cours, mais plutôt sur des aspects pratiques et logistiques.
+Chaque prof est différent et aborde la matière à sa façon, et ce même différement en fonction de chaque étudiant et de ses besoins. Je ne vais donc évidemment pas donner des conseils sur comment donner cours, mais plutôt sur des aspects pratiques et logistiques.
 
 Je n'ai pas la prétention de tout connaitre quant il s'agit de donner cours particulier. Ceci dit, donner cours me passionne et j'ai suivi un grand nombre d'étudiants tout au long de ces années. Cela m'a permis de tester plusieurs façon de faire, pour trouver ce qui fonctionne et ce qui fonctionne moins bien. 
 
@@ -56,7 +56,7 @@ Superprof proposera votre profil en tête ou bas de liste en fonction de 3 crit�
 1. Les avis laissés par les étudiants auxquels vous avez donné cours
 1. Votre tarif horaire
 
-Pour l'avoir expérimenté, je vous conseille vivement de proposer un premier cours gratuit. En effet, j'ai remarqué que si je retire l'option "premier cours gratuit" sur mon annonce, celle-ci dégringole dans la liste des profs proposés par Superprof. Vous serez donc bien moins visible par les étudiants, ce qui impactera fortement le nombre de demandes de cours.
+Pour l'avoir expérimenté, je vous conseille vivement de proposer un premier cours gratuit. En effet, j'ai remarqué que si je retire l'option "premier cours gratuit" sur mon annonce, celle-ci dégringole dans la liste des profs proposés par Superprof. Vous serez donc bien moins visible par les étudiants, ce qui impactera négativement le nombre de demandes de cours.
 
 Le deuxième critère concerne les avis laissés par les étudiants qui ont fait appel à vous dans le passé. Vous l'aurez deviné, au plus vous avez d'avis positifs, au plus votre annonce apparaitra en haut de page. Il est donc primordial de s'assurer que les étudiants soient satisfaits de vos prestations.
 
@@ -64,13 +64,13 @@ Suite à cela, une remarque revient souvent : "Je n'ai pas d'avis, donc je ne re
 
 Ensuite, il vous reste à proposer des cours de qualité à vos premiers étudiants pour qu'ils vous laissent de bonnes évaluations.
 
-Le troisième critère concerne votre tarif horaire. Là aussi vous l'aurez deviné, plus votre prix horaire est élevé, au moins vous serez placé en haut de page.
+Le troisième critère concerne votre tarif horaire. Là aussi vous l'aurez deviné, plus votre prix horaire est élevé, au plus vous serez relégué en bas de page.
 
 Ce critère du tarif horaire m'amène à mon deuxième conseil : Adapter son prix en fonction de son expérience.
 
 ### 2. Adapter son prix en fonction de son expérience
 
-Je suis le premier à penser que tout travail mérite salaire. Cependant, pour le vivre tous les jours, je remarque aussi que la qualité de mes cours dépend de mon expérience à enseigner cette matière.
+Je suis tout à fait d'accord que tout travail mérite salaire. Cependant, je remarque aussi que la qualité de mes cours dépend de mon expérience à enseigner cette matière.
 
 Au plus je donne cours sur la même matière, au plus mes explications sont claires, précises et illustrées d'exemples adaptés au programme d'étude de l'étudiant.
 
@@ -80,7 +80,7 @@ Pour faire un lien avec le conseil précédent, il sera d'autant plus facile de 
 
 Je conseille d'éviter de vouloir gagner plus, trop rapidement. En effet, les étudiants qui paient un prix élevé ont également tendance à avoir des exigences plus élevées et s'attendent à des cours de meilleure qualité. Si votre prestation n'est pas à la hauteur de leurs espérances, ils auront moins tendances à vous donner une bonne évaluation.
 
-Si vous donnez des cours sur un horizon à long terme, vous aurez bien le temps d'augmenter vos prix quand vous aurez acquis plus d'expérience, récolté plus de bonnes évaluations et construit une certaine réputation auprès des étudiants.
+Si vous comptez donner cours sur une longue période, vous aurez bien le temps d'augmenter vos prix quand vous aurez acquis plus d'expérience, récolté plus de bonnes évaluations et construit une certaine réputation auprès des étudiants.
 
 ### 3. Donner cours dans les matières que l'on maitrise
 
@@ -93,13 +93,13 @@ Avec le temps, j'ai remarqué que l'on sous-estime souvent le temps de préparat
 
 Pour ces raisons, je ne donne que des cours liés aux statistiques, probabilités, R, etc. et il m'arrive souvent de refuser une demande de cours. En effet, je préfère donner bien cours à peu d'étudiants que donner moins bien cours à un plus grand nombre d'étudiants.
 
-Lorsque je refuse une demande de cours parce que cela sort de mon domaine d'expertise, je suis transparent avec l'étudiant et je lui donne très souvent les e-mails de mes collègues statisticiens pour qu'ils puissent les contacter, s'ils le désirent (voir [ma liste](/profs/) en guise d'exemple).
+Lorsque je refuse une demande de cours parce que cela sort de mon domaine d'expertise, je suis transparent avec l'étudiant et je lui donne très souvent les e-mails de mes collègues statisticiens pour qu'il puisse les contacter, s'il le désire (voir [ma liste](/profs/) en guise d'exemple).
 
-Dès lors, je vous invite à vous entourer de personnes qui sont expertes dans les domaines liés aux vôtres et qui sont disponibles pour donner cours.
+Dès lors, je vous invite à vous entourer de personnes qui sont expertes dans les domaines liés aux vôtres et qui sont disponibles pour donner cours. Qui sait, ils vous enverront peut-être à leur tour des étudiants ?
 
 Notez que cela ne veut pas dire qu'il faut tout refuser sur le principe qu'une partie de la matière n'est pas maitrisée. Il m'arrive souvent de proposer à l'étudiant de l'aider pour certains chapitres et de l'inviter à contacter mes collègues pour les autres chapitres.
 
-De plus, on apprend énormément en donnant cours à des étudiants venant de programmes d'étude différents. Par conséquent, je pense qu'il est bien de garder un certain nombre de cours légèrement au-dessus de nos capacités, tant que la préparation préalable reste raisonnable.
+De plus, on apprend énormément en donnant cours à des étudiants venant de programmes d'étude différents. Par conséquent, je pense qu'il est bien de garder quelques cours légèrement en dehors de notre domaine d'expertise, tant que la préparation préalable reste raisonnable.
 
 ### 4. Proposer des cours en distanciel et en présentiel
 
@@ -121,7 +121,7 @@ Pour les cours en distanciel, Teams ou Zoom feront parfaitement l'affaire.
 
 Pour donner cours dans les meilleures conditions possibles, il est important de se créer un environnement de travail dans lequel vous et vos étudiants se sentent à l'aise, et dans lequel vous avez tout le matériel nécessaire.
 
-Cela va de soi, vous aurez besoin au minimum d'une table, des chaises et de quoi écrire. En plus de cela, je conseille :
+Cela va de soi, vous aurez besoin au minimum d'une table, de chaises et de quoi écrire. En plus de cela, je conseille :
 
 - un ordinateur,
 - une pièce fermée dans laquelle vous ne serez pas dérangé, et
@@ -132,7 +132,7 @@ Pour les cours en distanciel, je conseille également :
 - une bonne connexion internet (il n'y a rien de plus dérangeant qu'une conversation qui est sans cesse coupée), et
 - une tablette et un stylet.
 
-Je conseille une tablette pour que vous puissiez écrire à la main et partager votre écran à l'étudiant (essayez de résoudre un exercice de statistique avec juste un ordinateur...).
+Je conseille une tablette pour que vous puissiez écrire dessus et partager votre écran à l'étudiant (essayez de résoudre un exercice de statistique avec juste un ordinateur...).
 
 Il existe beaucoup d'applications de prise de notes, mais veillez à en choisir une qui permet de partager ses notes par e-mail pour pouvoir les envoyer à l'étudiant après le cours (personnellement j'utilise Microsoft OneNote). Je vous conseille également l'application PDF Expert, qui permet d'écrire directement sur des slides, documents PDF, etc. et d'ensuite envoyer le tout par e-mail.
 
@@ -142,7 +142,7 @@ Pour chaque étudiant et chaque cours, un temps non négligeable est consacré �
 
 En ce qui me concerne, voici un aperçu des tâches logistiques que je dois faire pour quasiment chaque cours :
 
-1. Demander à l'étudiant de m'envoyer la matière qu'il désire revoir avec moi s'il ne le fait pas de lui-même (et d'expérience, peu le font)
+1. Demander à l'étudiant de m'envoyer la matière qu'il désire revoir avec moi s'il ne l'a pas déjà fait de lui-même (et d'expérience, peu le font)
 1. Parcourir la matière pour vérifier que c'est bien dans mes cordes
 1. Le recontacter pour lui confirmer que je peux l'aider ou lui recommander des collègues si ce n'est pas dans mes cordes
 1. Si j'accepte de lui donner cours, trouver une date et heure qui nous convienne tous les deux
@@ -156,12 +156,18 @@ Il est clair que certaines étapes sont incompressibles et ne peuvent pas être 
 
 En revanche, avec le temps j'ai appris que certaines étapes peuvent être vraiment facilitées grâce à quelques outils ou procédés. Voici ceux que j'utilise le plus souvent, et qui me font gagner le plus de temps :
 
-- Dès qu'un étudiant me contacte, je le renvoie vers ce [questionnaire de prise de contact](/contact/) qui me permet de récolter toutes les informations nécessaires en une seule fois. Sur ce questionnaire, je rappelle également à l'étudiant de m'envoyer la matière, sans quoi je ne sais pas vérifier si la matière est dans mes cordes ou non. Pour ce questionnaire, j'utilise [Airtable](https://airtable.com/invite/r/T00stCNz), mais il peut tout à fait être créé sur Google Forms par exemple.^[J'utilise Airtable plutôt que Google parce qu'Airtable est plus complet; il permet notamment de lier des questionnaires avec des tables hautement personnalisables et les intégrer avec d'autres plateformes, etc. De plus, ils proposent une application mobile intuitive et un plan gratuit qui est largement suffisant pour débuter.]
+- Dès qu'un étudiant me contacte, je le renvoie vers ce [questionnaire de prise de contact](/contact/) qui me permet de récolter toutes les informations nécessaires en une seule fois. Sur ce questionnaire, je rappelle également à l'étudiant de m'envoyer la matière, sans quoi je ne sais pas vérifier si c'est dans mes cordes ou non. Pour ce questionnaire, j'utilise [Airtable](https://airtable.com/invite/r/T00stCNz), mais il peut tout à fait être créé sur Google Forms par exemple.^[J'utilise Airtable plutôt que Google Forms parce qu'Airtable est plus complet; il permet notamment de lier des questionnaires avec des tables hautement personnalisables, l'intégration avec d'autres plateformes, etc. De plus, ils proposent une application mobile intuitive et un plan gratuit qui est largement suffisant pour débuter.]
 - Si je peux aider l'étudiant, au lieu de faire des va-et-vient par e-mail pour trouver un créneau qui nous convienne à tous les deux, j'utilise Calendly; un outil de prise de rendez-vous en ligne (voir [ma page Calendly](https://calendly.com/antoinesoetewey) en guise d'exemple). En plus de permettre à n'importe qui de prendre rendez-vous quand cela lui arrange le mieux, cet outil peut aussi :
-  + Être synchronisé avec votre agenda : donc si vous créer un événement autre qu'un cours, cette plage horaire ne sera plus disponible pour vos étudiants.
+  + Être synchronisé avec votre agenda : si vous créer un événement autre qu'un cours, cette plage horaire ne sera plus disponible pour vos étudiants.
   + Être synchronisé avec votre compte Teams : lorsqu'un étudiant réserve une plage horaire, une réunion Teams est créée et un lien vers la réunion est envoyée par e-mail (tout ceci automatiquement, sans aucune action de ma part).
+- Certains des e-mails ou messages que j'envoie aux étudiants se répètent. Pour gagner du temps, j'ai créé une note sur mon ordinateur qui reprend tous les messages et réponses types. Dès que possible, plutôt que de l'écrire, je fais un copier-coller (ceci évite aussi des erreurs de frappe ou d'oublier une partie des informations).
 - Pour éviter de répondre plusieurs fois aux mêmes questions, j'ai créé et mis en ligne un site web ([www.easystat.be](/)) qui reprend la plupart des informations utiles : dès que je peux, je réfère l'étudiant vers la page du site web concernée.
-- Certains des e-mails ou messages que j'envoie aux étudiants se répètent. Pour gagner du temps, j'ai créé une note sur mon ordinateur qui reprend tous les messages et réponses types. Dès que possible, je fais un copier-coller plutôt que de l'écrire entièrement (ceci évite aussi des erreurs de frappe ou d'oublier une partie des informations).
+
+Avoir un site internet a trois grands autres avantages :
+
+1. Il sera actif et visible autant de temps que vous le voudrez. En effet, vous n'êtes pas à l'abri qu'une plateforme de cours sur laquelle vous êtes référencé disparaisse.
+1. Si votre site est bien construit, les moteurs de recherche (Google, etc.) le référenceront. Au mieux il est référencé, au plus il sera visible par de potentiels étudiants, ce qui vous amènera plus de demandes.
+1. Un site internet donne une image plus professionnelle, ce qui peut inciter certains étudiants à vous choisir plutôt qu'un autre.
 
 ### 7. Savoir poser ses limites
 
@@ -174,7 +180,7 @@ Ayant un travail à temps plein, j'ai dû poser mes limites à plusieurs reprise
 
 Avec l'expérience, j'ai remarqué que limiter la fréquence et le nombre de cours donnés n'est pas nécessairement négatif même pour un prof qui voudrait en faire son activité principale.
 
-En effet, restreindre le nombre de cours permet de ne sélectionner que ceux dont on maitrise le mieux le sujet. Ceci augmente fortement la qualité des cours, et à la suite de cela vos étudiants vont d'autant plus vous recommander.
+En effet, restreindre le nombre de cours permet d'être sélectif et de n'accepter que ceux dont on maitrise le mieux le sujet. Ceci augmente fortement la qualité des cours, et à la suite de cela vos étudiants vont d'autant plus vous recommander.
   
 ### Devenir prof ?
 
