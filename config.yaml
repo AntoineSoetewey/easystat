@@ -19,7 +19,7 @@ menu:
       url: '#resume'
       weight: 4
     - name: Devenir prof?
-      url: '/blog/conseils-pour-profs-particuliers/'
+      url: 'blog/conseils-pour-profs-particuliers/'
       weight: 5
       
 params:
