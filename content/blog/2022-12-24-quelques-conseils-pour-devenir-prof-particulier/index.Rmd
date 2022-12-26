@@ -13,7 +13,7 @@ Ci-dessous quelques conseils pour devenir professeur particulier ou déveloper s
 
 Si vous avez l'habitude de donner des cours dans les matières liées aux statistiques et que vous êtes ouvert à recevoir d'autres demandes d'étudiants, n'hésitez pas à me [contacter](mailto:ant.soetewey@gmail.com).
 
-### Introduction
+## Introduction
 
 J'ai commencé à donner cours particulier en janvier 2019.
 
@@ -186,7 +186,7 @@ Avec l'expérience, j'ai remarqué que limiter la fréquence et le nombre de cou
 
 En effet, restreindre le nombre de cours permet d'être sélectif et de n'accepter que ceux dont on maitrise le mieux le sujet. Ceci augmente fortement la qualité des cours, et à la suite de cela vos étudiants vont d'autant plus vous recommander.
   
-### Devenir prof ?
+## Devenir prof ?
 
 Recevant un plus grand nombre de demandes de cours que ce que je peux me permettre d'accepter, il m'arrive souvent d'en refuser et de rediriger les étudiants vers d'autres profs particuliers en statistiques.
 
