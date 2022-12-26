@@ -1,6 +1,7 @@
 .about {
   overflow: hidden;
   &_content {
+    padding-bottom: 50px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -42,7 +43,7 @@
     }
     &-inner {
       width: 55%;
-      padding: 60px 50px;
+      padding: 65px 50px;
       background: #1b2031;
       border-radius: 20px;
       margin-left: -60px;
