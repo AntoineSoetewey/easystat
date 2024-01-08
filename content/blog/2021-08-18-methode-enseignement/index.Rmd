@@ -11,9 +11,9 @@ postImage: images/blog/easystat-professeur-statistique.jpeg
 
 Ma méthode d'enseigement est différente en fonction que vous ayez besoin :
 
-- de **cours particuliers** en statistique, probabilité ou sur le logiciel R
+- de **cours particuliers** en statistique, probabilité, ou sur les logiciels R et Jamovi
 - d'une aide à la réalisation des statistiques de votre **mémoire ou travail de fin d'études** (pour les étudiants), ou de votre **thèse ou article scientifique** (pour les doctorants et chercheurs)
-- d'une **formation** sur le logiciel R
+- d'une **formation** sur le logiciel R ou Jamovi
 
 ## Cours particuliers
 
@@ -23,34 +23,34 @@ De plus, je prends en compte les questions et interrogations de l'étudiant pour
 
 ## Mémoires, TFEs et recherches scientifiques
 
-Comment je fonctionne pour la partie statistique des mémoires, TFEs ou travaux ? Je commence par me renseigner sur le contexte, la problématique, les questions de recherches du mémoire/TFE, les besoins et attentes de l'étudiant et du promoteur pour ensuite aider et aiguiller l'étudiant dans la partie statistique ou méthodologique de son mémoire/TFE.
+Comment je fonctionne pour la partie statistique des mémoires ou TFEs ? Je commence par me renseigner sur le contexte, la problématique, les questions de recherches du mémoire/TFE, les besoins et attentes de l'étudiant et du promoteur pour ensuite aider et aiguiller l'étudiant dans la partie statistique ou méthodologique de son mémoire/TFE.
 
-Cela passe très souvent par un premier rendez-vous pour en discuter plus en détails afin de bien saisir la problématique et les attentes, et ensuite assurer un suivi jusqu'à l'achèvement de la partie statistique du mémoire ou TFE, ceci en donnant toutes les explications nécessaires et en répondant aux questions que l'étudiant pourrait se poser pendant ou après la rédaction du mémoire, TFE ou travail.
+Cela passe très souvent par un premier rendez-vous pour en discuter plus en détails afin de bien saisir la problématique et les attentes, et ensuite assurer un suivi jusqu'à l'achèvement de la partie statistique du mémoire ou TFE, ceci en donnant toutes les explications nécessaires et en répondant aux questions que l'étudiant pourrait se poser pendant ou après la rédaction du mémoire ou TFE.
 
-Pour les chercheurs et doctorants, je peux également aider à la partie statistique de votre thèse, recherche, projet ou article scientifique. Là aussi, cela passe généralement par un premier rendez-vous pour comprendre vos besoins et attentes. Ce premier entretien me permettra également de vous confirmer si je peux vous aider ou non. Si ce n'est pas dans mes cordes, je vous redirigerai vers un(e) de mes collègues statisticien(ne)s qui se fera un plaisir de vous aider.
+Pour les chercheurs et doctorants, je peux également aider à la partie statistique de votre thèse, projet de recherche ou article scientifique. Là aussi, cela passe généralement par un premier rendez-vous pour comprendre vos besoins et attentes. Ce premier entretien me permettra également de vous confirmer si je peux vous aider ou non. Si ce n'est pas dans mes cordes, je vous redirigerai vers un(e) de mes collègues statisticien(ne)s qui se fera un plaisir de vous aider.
 
-Que ce soit pour les étudiants ou les chercheurs, je peux vous accompagner du début à la fin (la collecte des données, sélectionner les tests et analyses appropriées, les réaliser à l'aide d'un programme statistique, interpréter les résultats, relire et corriger vos interprétations), ou bien pour une partie seulement.
+Que ce soit pour les étudiants ou les chercheurs, je peux vous accompagner du début à la fin (collecte des données, sélection des tests et analyses appropriées, aide à la réalisation des tests dans un programme statistique, interprétation des résultats, relecture de vos interprétations finales), ou bien pour une partie seulement.
 
 De plus, notez que je ne travaille qu'avec les programmes statistiques R (RStudio & R Markdown) et Jamovi. Il est donc inutile de me contacter si vous avez besoin d'aide pour des manipulations sur SPSS, SAS, JMP, MATLAB ou autres (c'est néanmoins possible si vous avez besoin d'aide pour interpréter les résultats et sorties de ces programmes, et pas besoin d'aide pour faire les manipulations).
 
 ## Formations
 
-Ayant l’habitude de donner des formations et de faire des travaux, projets et mémoires sur R, il m’est aussi possible de dispenser des cours ou formations sur RStudio, R Markdown et R Shiny, que ça soit à des étudiants ou des travailleurs qui ont besoin d’approfondir (ou de découvrir) ce programme statistique.
+Ayant l'habitude de donner des formations et d'accompagner dans la partie statistique des mémoires/TFEs et projets de recherche sur R et Jamovi, il m’est aussi possible de dispenser des cours ou formations sur RStudio, R Markdown, R Shiny et Jamovi, que ça soit à des étudiants ou des travailleurs qui ont besoin d'approfondir (ou de découvrir) ces programmes statistiques.
 
 Pour les travailleurs ou sociétés, vous trouverez plus d'informations via [datanalyze.be](https://datanalyze.be/).
 
 ## Contact
 
-Que ça soit pour une demande de cours ou une demande d’aide pour la partie stat de votre mémoire, TFE ou thèse, vous pouvez [me contacter](/contact/) en donnant le maximum d’informations :
+Que ça soit pour une demande de cours ou une demande d’aide pour la partie statistique de votre mémoire, TFE, thèse ou projet de recherche, vous pouvez [me contacter](/contact/) en donnant le maximum d’informations. Par exemple :
 
 - l’intitulé et le code du cours,
 - le contenu,
 - votre programme et année d’étude,
-- sur quoi porte votre mémoire/TFE/thèse,
+- sur quoi porte votre mémoire/TFE, thèse ou projet de recherche,
 - quelles analyses ou tests vous auriez besoin,
 - etc.
 
-afin que je puisse répondre à votre demande le plus rapidement et le plus efficacement possible. Merci d’avance !
+Ces informations me permettront de répondre à votre demande le plus rapidement et le plus efficacement possible. Merci d’avance !
 
 Si je me rends compte que je ne suis pas en mesure de vous aider, je n'hésiterai pas à vous transmettre les coordonnées de contact d'autres professeurs particuliers en statistiques.
 

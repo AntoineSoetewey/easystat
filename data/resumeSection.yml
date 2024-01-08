@@ -13,7 +13,7 @@ title: >
   Depuis janvier 2019, je donne également des cours particuliers de statistique et j'aide les professionnels et sociétés pour l'analyse de leur données.
   
   
-  Voir plus de détails via mon [CV](https://antoinesoetewey.com/cv.pdf).
+  Voir plus de détails via mon [CV](https://antoinesoetewey.com/cv/).
 tab1Name: Education
 tab2Name: Expériences
 tab1Target: education
@@ -38,9 +38,9 @@ education:
 
 experience:
   - content: >
-      #### UCLouvain
+      #### UCLouvain & UNamur
       
-      Assistant en statistique et probabilité pour étudiants en bachelier et master. Voir mes [cours](https://antoinesoetewey.com/teaching/).
+      Assistant et chargé de cours invité en statistique et probabilité pour étudiants en bachelier et master. Voir mes [cours](https://antoinesoetewey.com/teaching/).
     time: 2017 - Présent
   - content: >
       #### Support en Méthodologie et Calcul Statistique (SMCS)
