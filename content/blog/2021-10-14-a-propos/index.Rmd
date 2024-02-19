@@ -5,8 +5,8 @@ date: '2021-10-14'
 slug: a-propos
 categories: []
 tags: []
-featureImage: images/blog/Antoine-Soetewey-easystat-prof-stat.png
-postImage: images/blog/Antoine-Soetewey-easystat-prof-stat.png
+featureImage: images/about/easystat-antoine-soetewey.jpeg
+postImage: images/about/easystat-antoine-soetewey.jpeg
 ---
 
 Ci-dessous vous trouverez une présentation sous forme d'interview (réalisée par Superprof).
