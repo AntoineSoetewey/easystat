@@ -4,7 +4,7 @@ enable: true
 content: >
   # Vous cherchez un prof de statistique ?
   
-  Professeur au niveau universitaire depuis plusieurs années, n'hésitez pas à me contacter si vous avez besoin d'aide en statistique pour un cours, votre mémoire ou TFE.
+  Professeur au niveau universitaire depuis plusieurs années, n'hésitez pas à me contacter si vous avez besoin d'aide en statistique pour votre mémoire ou votre TFE.
 buttonName: Contactez-moi
 buttonURL: contact
 image: images/hero/easystat-professeur-statistique.jpeg
