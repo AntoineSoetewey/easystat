@@ -5,10 +5,10 @@ title: >
   ## Témoignages
 
 testimonial:
-  - name: Cloé
-    comment: Antoine est un excellent prof de stat, il explique les choses de manière claire et concise. Il a toujours un exemple concret sous la main, ce qui rend le cours passionnant. Il est très disponible, je le recommande vivement !
-    time: 6 janvier
-    star: 5
+  # - name: Cloé
+  #   comment: Antoine est un excellent prof de stat, il explique les choses de manière claire et concise. Il a toujours un exemple concret sous la main, ce qui rend le cours passionnant. Il est très disponible, je le recommande vivement !
+  #   time: 6 janvier
+  #   star: 5
   - name: Elisa
     comment: J'avais besoin d'aide pour la réalisation des statistiques de mon mémoire. Antoine m'a offert une aide précieuse. Rapide, efficace et très pédagogue ! Merci
     time: 20 mars
@@ -21,12 +21,12 @@ testimonial:
     comment: Rapide, direct, réactif, efficace. Bref, je recommande.
     time: 12 décembre
     star: 5
-  - name: Adonis
-    comment: Antoine a réussi à me débloquer d'un problème en statistique et s'est investi du mieux qu'il pouvait pour qu'à la fin du cours tout soit maitrisé. Chapeau !
-    time: 19 mai
-    star: 5
-  - name:
-    comment: Voir d'autres évaluations sur [Superprof](https://www.superprof.be/doctorant-assistant-statistiques-uclouvain-donne-cours-statistiques-probabilites-aide-partie-statistique.html) et [RingTwice](https://ringtwice.app.link/sp_profile_customer?typeroute=sp_profile_customer&listworker_id=63076&$fallback_url=https://ringtwice.be/listworkers/63076?from=marketing&parrainage=ANTOINESO&$desktop_url=https://ringtwice.be/listworkers/63076?from=marketing&parrainage=ANTOINESO&$og_url=https://ringtwice.be/listworkers/63076?from=marketing&parrainage=ANTOINESO)
-    time: 2019 - Aujourd'hui
-    star:
+  # - name: Adonis
+  #   comment: Antoine a réussi à me débloquer d'un problème en statistique et s'est investi du mieux qu'il pouvait pour qu'à la fin du cours tout soit maitrisé. Chapeau !
+  #   time: 19 mai
+  #   star: 5
+  # - name:
+  #   comment: Voir d'autres évaluations sur [Superprof](https://www.superprof.be/doctorant-assistant-statistiques-uclouvain-donne-cours-statistiques-probabilites-aide-partie-statistique.html) et [RingTwice](https://ringtwice.app.link/sp_profile_customer?typeroute=sp_profile_customer&listworker_id=63076&$fallback_url=https://ringtwice.be/listworkers/63076?from=marketing&parrainage=ANTOINESO&$desktop_url=https://ringtwice.be/listworkers/63076?from=marketing&parrainage=ANTOINESO&$og_url=https://ringtwice.be/listworkers/63076?from=marketing&parrainage=ANTOINESO)
+  #   time: 2019 - Aujourd'hui
+  #   star:
 

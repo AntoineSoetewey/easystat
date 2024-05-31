@@ -9,21 +9,23 @@ featureImage: images/blog/questionnaire-easystat.jpeg
 postImage: images/blog/questionnaire-easystat.jpeg
 ---
 
-Que se passe-t-il une fois que vous avez rempli le [questionnaire de contact](/contact/) ?
+## Que se passe-t-il une fois que vous avez rempli le questionnaire de contact ?
 
-Avant toute chose, que ce soit pour une demande de cours particuliers ou une demande d'aide pour des analyses statistiques, le fait de **remplir le questionnaire est gratuit et sans engagement.**
+Avant toute chose, sachez que le fait de remplir le questionnaire est **gratuit et sans engagement.**
 
-Voici comment je procède en fonction que votre demande concerne des cours particuliers ou un mémoire/TFE.
+<!-- Voici comment je procède en fonction que votre demande concerne des cours particuliers ou un mémoire/TFE. -->
 
-## Cours particuliers
+<!-- ## Cours particuliers -->
 
-**Si vous m'avez contacté pour des cours particuliers,** je commence par lire attentivement la matière que vous m'avez envoyé. Si je suis disponible et que la matière est dans mes cordes, nous fixerons ensemble la date du ou des premiers cours.
+<!-- **Si vous m'avez contacté pour des cours particuliers,** je commence par lire attentivement la matière que vous m'avez envoyé. Si je suis disponible et que la matière est dans mes cordes, nous fixerons ensemble la date du ou des premiers cours. -->
 
-Si je ne suis pas disponible ou que je ne suis pas expert dans la matière, je vous enverrai les coordonnées d'autres professeurs particuliers en statistiques. Vous pourrez alors les contacter afin d'organiser les cours avec eux. Il est évident que si je ne vous donne pas cours, vous n'aurez rien à me payer. Le paiement de vos cours se fera auprès du prof que vous aurez choisi (et selon ses modalités).
+<!-- Si je ne suis pas disponible ou que je ne suis pas expert dans la matière, je vous enverrai les coordonnées d'autres professeurs particuliers en statistiques. Vous pourrez alors les contacter afin d'organiser les cours avec eux. Il est évident que si je ne vous donne pas cours, vous n'aurez rien à me payer. Le paiement de vos cours se fera auprès du prof que vous aurez choisi (et selon ses modalités). -->
 
-## Mémoires ou TFE
+<!-- ## Mémoires ou TFE -->
 
-**Si vous m'avez contacté pour de l'aide concernant les analyses statistiques de votre mémoire ou TFE,** je commence par prendre connaissance des informations que vous m'avez fourni via le questionnaire.
+<!-- **Si vous m'avez contacté pour de l'aide concernant les analyses statistiques de votre mémoire ou TFE,** -->
+
+Une fois que vous avez rempli le questionnaire, je commence par prendre connaissance des informations que vous m'avez fourni via ce questionnaire.
 
 Ensuite nous fixons un rendez-vous ensemble pour que vous m'expliquiez en détails vos données, votre problématique et votre question de recherche. Cette première entrevue permet de clarifier vos besoins et définir le coût de la prestation. 
 
@@ -35,4 +37,4 @@ Pour information, le coût est calculé sur base du temps de travail nécessaire
 
 Ce premier rendez-vous est totalement gratuit. Je ne commence à travailler sur vos données qu'une fois que nous nous sommes mis d'accord sur le montant et la date de remise du travail.
 
-Là aussi, si lors de la première entrevue je me rends compte que je ne sais pas vous aider, je vous enverrai les coordonnées de collègues statisticiens qui se feront un plaisir de vous aider.
+Si lors de la première entrevue je me rends compte que je ne sais pas vous aider, je vous enverrai les coordonnées de collègues statisticiens qui se feront un plaisir de vous aider.
