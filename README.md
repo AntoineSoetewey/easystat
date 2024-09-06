@@ -1,10 +1,4 @@
-# easystat
 
-[Contactez-moi](https://easystat.be/contact/) si vous êtes :
-
-- un **étudiant** à la recherche d'un **prof de stat** pour votre cours ou votre mémoire
-
-Plus d'information sur [easystat.be](https://easystat.be/)
 
 ## Status
 
