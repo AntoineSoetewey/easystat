@@ -23,13 +23,21 @@ postImage: images/blog/easystat-professeur-statistique.jpeg
 
 <!-- ## Mémoires, TFEs et recherches scientifiques -->
 
-## Comment je fonctionne pour la partie statistique des mémoires ou TFEs ?
+<!-- ## Comment je fonctionne pour la partie statistique des mémoires ou TFEs ? -->
+
+## Comment je fonctionne ?
+
+#### Pour la partie statistique des mémoires ou TFEs 
 
 Je commence par me renseigner sur le contexte, la problématique, les questions de recherches du mémoire/TFE, les besoins et attentes de l'étudiant et du promoteur pour ensuite aider et aiguiller l'étudiant dans la partie statistique ou méthodologique de son mémoire/TFE.
 
 Cela passe très souvent par un premier rendez-vous pour en discuter plus en détails afin de bien saisir la problématique et les attentes, et ensuite assurer un suivi jusqu'à l'achèvement de la partie statistique du mémoire ou TFE, ceci en donnant toutes les explications nécessaires et en répondant aux questions que l'étudiant pourrait se poser pendant ou après la rédaction du mémoire ou TFE.
 
+#### Pour les publications scientifiques, thèses, etc.
+
 Pour les chercheurs et doctorants, je peux également aider à la partie statistique de votre thèse, projet de recherche ou article scientifique. Là aussi, cela passe généralement par un premier rendez-vous pour comprendre vos besoins et attentes. Ce premier entretien me permettra également de vous confirmer si je peux vous aider ou non. Si ce n'est pas dans mes cordes, je vous redirigerai vers un(e) de mes collègues statisticien(ne)s qui se fera un plaisir de vous aider.
+
+#### Pour information
 
 Que ce soit pour les étudiants ou les chercheurs, je peux vous accompagner du début à la fin (collecte des données, sélection des tests et analyses appropriées, aide à la réalisation des tests dans un programme statistique, interprétation des résultats, relecture de vos interprétations finales), ou bien pour une partie seulement.
 
@@ -41,7 +49,7 @@ De plus, notez que je ne travaille qu'avec les programmes statistiques R (RStudi
 
 <!-- Pour les travailleurs ou sociétés, vous trouverez plus d'informations via [datanalyze.be](https://datanalyze.be/). -->
 
-## Contact
+#### Contact
 
 Que ça soit pour une demande d’aide pour la partie statistique de votre mémoire, TFE, thèse ou projet de recherche, vous pouvez [me contacter](/contact/) en donnant le maximum d’informations. Par exemple :
 
