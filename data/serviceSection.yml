@@ -20,11 +20,11 @@ service:
       
 #       Prix : 35€/heure
     image: images/service/web.svg
-#   - content: >
-#       #### Consultance
-# 
-#       Si vous êtes un **professionnel**, je vous aide dans l'**analyse de données** et dans la prise de décision en apportant une dimension statistique à vos projets, quel que soit le secteur d'activité. Je propose également des **formations sur RStudio, Jamovi et JASP** aux employés désirant se former à ces programmes.
-#       
-#       
+   - content: >
+       #### Consultance
+ 
+       Si vous êtes un **professionnel**, je vous aide dans l'**analyse de données** et dans la prise de décision en apportant une dimension statistique à vos projets, quel que soit le secteur d'activité. Je propose également des **formations sur RStudio, Jamovi et JASP** aux employés désirant se former à ces programmes.
+       
+       
 #       [Plus d'informations](https://datanalyze.be/fr/)
-#     image: images/service/branding.svg
+     image: images/service/branding.svg
