@@ -66,6 +66,6 @@ Ces informations me permettront de répondre à votre demande le plus rapidement
 
 Si je me rends compte que je ne suis pas en mesure de vous aider, je n'hésiterai pas à vous transmettre les coordonnées de contact d'autres professeurs particuliers en statistiques.
 
-<!-- ## En savoir plus -->
+## En savoir plus
 
-<!-- Apprenez-en plus sur moi et ma façon de travailler au travers de cette [interview](/blog/a-propos/). -->
+Apprenez-en plus sur moi et ma façon de travailler au travers de cette [interview](/blog/a-propos/).
