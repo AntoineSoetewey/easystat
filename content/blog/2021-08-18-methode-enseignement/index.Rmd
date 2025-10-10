@@ -11,8 +11,8 @@ postImage: images/blog/easystat-professeur-statistique.jpeg
 
 Ma méthode d'enseigement est différente en fonction que vous ayez besoin :
 
-- de **cours particuliers** en statistique, probabilité, ou sur les logiciels R et Jamovi
-- d'une aide à la réalisation des statistiques de votre **mémoire ou travail de fin d'études** (pour les étudiants), ou de votre **thèse ou article scientifique** (pour les doctorants et chercheurs)
+- de **cours particuliers** en statistique, probabilité, ou sur les logiciels R, Jamovi ou JASP
+- d'une aide à la réalisation des statistiques de votre **mémoire ou travail de fin d'études** (pour les étudiants), ou de votre **thèse ou article scientifique** (pour les doctorants, post-doctorants et chercheurs)
 - d'une **formation** sur le logiciel R, Jamovi ou JASP
 
 ## Cours particuliers
@@ -35,13 +35,13 @@ Cela passe très souvent par un premier rendez-vous pour en discuter plus en dé
 
 #### Pour les publications scientifiques, thèses, etc.
 
-Pour les chercheurs et doctorants, je peux également aider à la partie statistique de votre thèse, projet de recherche ou article scientifique. Là aussi, cela passe généralement par un premier rendez-vous pour comprendre vos besoins et attentes. Ce premier entretien me permettra également de vous confirmer si je peux vous aider ou non. Si ce n'est pas dans mes cordes, je vous redirigerai vers un(e) de mes collègues statisticien(ne)s qui se fera un plaisir de vous aider.
+Pour les chercheurs et (post-)doctorants, je peux également aider à la partie statistique de votre thèse, projet de recherche ou article scientifique. Là aussi, cela passe généralement par un premier rendez-vous pour comprendre vos besoins et attentes. Ce premier entretien me permettra également de vous confirmer si je peux vous aider ou non. Si ce n'est pas dans mes cordes, je vous redirigerai vers un(e) de mes collègues statisticien(ne)s qui se fera un plaisir de vous aider.
 
 #### Pour information
 
 Que ce soit pour les étudiants ou les chercheurs, je peux vous accompagner du début à la fin (collecte des données, sélection des tests et analyses appropriées, aide à la réalisation des tests dans un programme statistique, interprétation des résultats, relecture de vos interprétations finales), ou bien pour une partie seulement.
 
-De plus, notez que je ne travaille qu'avec les programmes statistiques R (RStudio & R Markdown) et Jamovi. Il est donc inutile de me contacter si vous avez besoin d'aide pour des manipulations sur SPSS, SAS, JMP, MATLAB ou autres (c'est néanmoins possible si vous avez besoin d'aide pour interpréter les résultats et sorties de ces programmes, et pas besoin d'aide pour faire les manipulations).
+De plus, notez que je ne travaille qu'avec les programmes statistiques R (RStudio & R Markdown), Jamovi et JASP. Il est donc inutile de me contacter si vous avez besoin d'aide pour des manipulations sur SPSS, SAS, JMP, MATLAB ou autres (c'est néanmoins possible si vous avez besoin d'aide pour interpréter les résultats et sorties de ces programmes, et pas besoin d'aide pour faire les manipulations).
 
 ## Formations
 
