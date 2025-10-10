@@ -1,5 +1,5 @@
 ---
-enable: false
+enable: true
 # topTitle: Services
 title: >
   ## En quoi puis-je vous aider ?
@@ -7,24 +7,24 @@ service:
   - content: >
       #### Cours particuliers
 
-      Quel que soit votre programme, votre année d'étude ou votre niveau actuel, je propose des **cours** particuliers en **statistique**, **probabilité** et sur **RStudio** (R script et R Markdown) ou **Jamovi**, en garantissant un accompagnement personnalisé et sur mesure à chaque étudiant.
+      Quel que soit votre programme, votre année d'étude ou votre niveau actuel, je propose des **cours** particuliers en **statistique**, **probabilité** et sur **RStudio** (R script, R Markdown, Shiny), **Jamovi** ou **JASP**, en garantissant un accompagnement personnalisé et sur mesure à chaque étudiant.
       
       
 #       Prix : 35€/heure (tarif dégressif pour les cours à plusieurs)
     image: images/service/ui-ux.svg
   - content: >
-      #### Mémoire/TFE
+      #### Mémoire, TFE, projet de recherche
 
-      De par mon expérience en tant qu'assistant au niveau universitaire, j'accompagne souvent des mémorants (en médecine, kiné, santé publique, etc.). Je peux donc vous aider dans la réalisation des **analyses statistiques** de votre **mémoire ou TFE**, en m'assurant la bonne compréhension et interprétation des tests statistiques appliqués.
+      De par mon expérience en tant qu'assistant au niveau universitaire, j'accompagne souvent des mémorants (en médecine, kiné, santé publique, etc.). Je peux donc vous aider dans la réalisation des **analyses statistiques** de votre **mémoire, TFE, thèse ou article scientifique**, en m'assurant la bonne compréhension et interprétation des tests statistiques appliqués.
       
       
 #       Prix : 35€/heure
     image: images/service/web.svg
-#   - content: >
-#       #### Consultance
-# 
-#       Si vous êtes un **professionnel**, je vous aide dans l'**analyse de données** et dans la prise de décision en apportant une dimension statistique à vos projets, quel que soit le secteur d'activité. Je propose également des **formations sur RStudio, Jamovi et JASP** aux employés désirant se former à ces programmes.
-#       
-#       
+  - content: >
+      #### Consultance
+
+      Si vous êtes un **professionnel**, je vous aide dans l'**analyse de données** et dans la prise de décision en apportant une dimension statistique à vos projets, quel que soit le secteur d'activité. Je propose également des **formations sur RStudio, Jamovi et JASP** aux employés désirant se former à ces programmes.
+      
+      
 #       [Plus d'informations](https://datanalyze.be/fr/)
-#     image: images/service/branding.svg
+    image: images/service/branding.svg

@@ -9,9 +9,9 @@ menu:
     - name: A propos
       url: '#about'
       weight: 1
-    # - name: Services
-    #   url: '#service'
-    #   weight: 2
+    - name: Services
+      url: '#service'
+      weight: 2
     - name: Compétences
       url: '#portfolio'
       weight: 3
