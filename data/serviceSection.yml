@@ -7,7 +7,7 @@ service:
   - content: >
       #### Cours particuliers
 
-      Quel que soit votre programme, votre année d'étude ou votre niveau actuel, je propose des **cours** particuliers en **statistique**, **probabilité** et sur **RStudio** (R script et R Markdown) ou **Jamovi**, en garantissant un accompagnement personnalisé et sur mesure à chaque étudiant.
+      Quel que soit votre programme, votre année d'étude ou votre niveau actuel, je propose des **cours** particuliers en **statistique**, **probabilité** et sur **RStudio** (R script et R Markdown), **Jamovi** ou **JASP**, en garantissant un accompagnement personnalisé et sur mesure à chaque étudiant.
       
       
 #       Prix : 35€/heure (tarif dégressif pour les cours à plusieurs)
