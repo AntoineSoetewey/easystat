@@ -43,6 +43,8 @@ Que ce soit pour les étudiants ou les chercheurs, je peux vous accompagner du d
 
 De plus, notez que je ne travaille qu'avec les programmes statistiques R (RStudio & R Markdown), Jamovi et JASP. Il est donc inutile de me contacter si vous avez besoin d'aide pour des manipulations sur SPSS, SAS, JMP, MATLAB ou autres (c'est néanmoins possible si vous avez besoin d'aide pour interpréter les résultats et sorties de ces programmes, et pas besoin d'aide pour faire les manipulations).
 
+Enfin, notez qu'avant toute collaboration, il est indispensable que vous ayez obtenu l’accord préalable de votre promoteur·rice.
+
 ## Formations
 
 Ayant l'habitude de donner des formations et d'accompagner dans la partie statistique des mémoires/TFEs et projets de recherche sur R, Jamovi et JASP, il m’est aussi possible de dispenser des cours ou formations sur RStudio, R Markdown, R Shiny, Jamovi et JASP, que ça soit à des étudiants ou des travailleurs qui ont besoin d'approfondir (ou de découvrir) ces programmes statistiques.
